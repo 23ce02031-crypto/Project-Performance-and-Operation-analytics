@@ -1,0 +1,501 @@
+Project_ID,Project_Name,Project_Category,Department,Project_Start_Date,Planned_End_Date,Actual_End_Date,Approved_Budget,Revised_Budget,Project_Status,Project_Manager_ID,Priority
+PRJ-0001,Retaining Wall Repair at Harmony Heights (Sector 2),Repair,Water & Sanitation Wing,2025-06-22,2025-12-17,2026-01-25,11308000,11308000,Completed,PM-025,Medium
+PRJ-0002,Road Surface Upkeep at Crescent Hills (Sector 36),Maintenance,Electrical Works Division,2025-07-12,2026-03-01,2026-03-11,3115000,3115000,Completed,PM-015,Medium
+PRJ-0003,Pavement Repair at Silverline Township (Sector 27),Repair,Road & Drainage Unit,2024-10-02,2025-06-02,2025-08-09,6360000,6360000,Completed,PM-039,Medium
+PRJ-0004,Water Tank Repair at Meadow Park Colony (Sector 9),Repair,Civil Works Division,2027-01-04,2027-08-01,,5371000,5371000,Not Started,PM-002,Medium
+PRJ-0005,Construction of Multipurpose Hall at Green Valley Campus (Sector 33),Construction,Civil Works Division,2025-06-23,2027-02-06,,28223000,28223000,On Hold,PM-001,Medium
+PRJ-0006,Water Distribution Network at Maple Grove Estate (Sector 27),Infrastructure Development,Electrical Works Division,2026-03-19,2027-05-24,,83297000,83297000,Ongoing,PM-013,High
+PRJ-0007,Pavement Repair at Riverside Complex (Sector 22),Repair,Mechanical Services Division,2026-03-29,2026-10-19,,2859000,2859000,Ongoing,PM-022,Low
+PRJ-0008,Boundary Wall Repair at Silverline Township (Sector 17),Repair,Building Maintenance Cell,2026-09-01,2027-02-12,,2850000,2850000,Ongoing,PM-049,Low
+PRJ-0009,Construction of Storage Warehouse at Hillcrest Township (Sector 32),Construction,Civil Works Division,2026-09-04,2028-02-11,,72708000,72708000,Ongoing,PM-007,Medium
+PRJ-0010,Drain Desilting and Upkeep at Meadow Park Colony (Sector 25),Maintenance,Electrical Works Division,2025-11-12,2026-09-16,,4069000,4069000,Ongoing,PM-010,High
+PRJ-0011,Drain Desilting and Upkeep at Lakeview Colony (Sector 7),Maintenance,Mechanical Services Division,2025-12-19,2026-10-26,,3453000,3453000,On Hold,PM-017,Medium
+PRJ-0012,Sewage Treatment Plant at Harmony Heights (Sector 36),Infrastructure Development,Water & Sanitation Wing,2026-12-24,2029-12-01,,55578000,55578000,Not Started,PM-025,Medium
+PRJ-0013,Retaining Wall Repair at Northgate Cluster (Sector 31),Repair,Estate Management Branch,2025-03-13,2025-11-19,2025-12-07,3288000,3288000,Completed,PM-041,High
+PRJ-0014,Boundary Wall Repair at Meadow Park Colony (Sector 14),Repair,Building Maintenance Cell,2024-02-08,2024-08-10,2024-11-15,2901000,2988000,Completed,PM-052,Medium
+PRJ-0015,Street Lighting Upkeep at Sunrise Enclave (Sector 37),Maintenance,Civil Works Division,2025-05-07,2026-01-29,2026-04-21,2987000,2987000,Completed,PM-005,Low
+PRJ-0016,Road Surface Upkeep at Sunrise Enclave (Sector 25),Maintenance,Estate Management Branch,2026-07-12,2026-12-28,,1079000,1079000,Ongoing,PM-045,Medium
+PRJ-0017,Renovation of Classroom Block at Orchard Park Campus (Sector 35),Renovation,Civil Works Division,2026-04-08,2027-03-19,,9654000,9944000,On Hold,PM-008,Medium
+PRJ-0018,Construction of Library Building at Orchard Park Campus (Sector 17),Construction,Civil Works Division,2026-11-12,2027-11-23,,18776000,18776000,Not Started,PM-002,Medium
+PRJ-0019,Retaining Wall Repair at Meadow Park Colony (Sector 30),Repair,Road & Drainage Unit,2025-05-27,2025-11-01,2025-10-15,1054000,1054000,Completed,PM-035,Medium
+PRJ-0020,Renovation of Guest House at Harmony Heights (Sector 4),Renovation,Estate Management Branch,2026-01-29,2027-04-19,,29333000,29333000,Ongoing,PM-042,Low
+PRJ-0021,Compound Gate Repair at Green Valley Campus (Sector 16),Repair,Water & Sanitation Wing,2024-06-12,2024-12-17,2024-12-05,5080000,5080000,Completed,PM-025,Medium
+PRJ-0022,Annual Maintenance of Electrical Network at Silverline Township (Sector 40),Maintenance,Mechanical Services Division,2025-09-06,2026-03-17,2026-03-08,3301000,3301000,Completed,PM-018,Medium
+PRJ-0023,Stormwater Drainage System at Silverline Township (Sector 37),Infrastructure Development,Civil Works Division,2024-04-08,2025-12-20,2026-04-19,40316000,40316000,Completed,PM-001,Medium
+PRJ-0024,Water Distribution Network at Granite Hill Campus (Sector 13),Infrastructure Development,Water & Sanitation Wing,2026-06-26,2027-08-13,,12193000,12193000,Ongoing,PM-025,High
+PRJ-0025,Pipeline Leak Repair at Meadow Park Colony (Sector 19),Repair,Building Maintenance Cell,2023-12-27,2024-07-07,2024-07-15,3638000,3638000,Completed,PM-056,Low
+PRJ-0026,Preventive Maintenance of Water Supply at Cedar Ridge Campus (Sector 14),Maintenance,Building Maintenance Cell,2026-12-25,2028-01-03,,4635000,4635000,Not Started,PM-055,Medium
+PRJ-0027,Street Lighting Upkeep at Granite Hill Campus (Sector 28),Maintenance,Mechanical Services Division,2024-11-11,2025-06-20,2025-11-25,3565000,3565000,Completed,PM-022,Low
+PRJ-0028,Construction of Community Hall at Lakeview Colony (Sector 38),Construction,Civil Works Division,2024-08-08,2026-03-01,2026-04-12,79028000,81399000,Completed,PM-003,Medium
+PRJ-0029,Construction of Library Building at Eastbrook Township (Sector 21),Construction,Civil Works Division,2023-09-25,2025-06-17,2026-10-08,63134000,82787000,Completed,PM-001,Low
+PRJ-0030,Roof Waterproofing Repair at Willow Bend Estate (Sector 34),Repair,Road & Drainage Unit,2024-10-04,2025-03-10,2025-03-02,1717000,1717000,Completed,PM-037,Low
+PRJ-0031,Boundary Wall Repair at Harmony Heights (Sector 18),Repair,Civil Works Division,2026-05-19,2026-12-27,,4263000,4263000,Ongoing,PM-002,Low
+PRJ-0032,Water Distribution Network at Cedar Ridge Campus (Sector 4),Infrastructure Development,Water & Sanitation Wing,2025-11-09,2027-08-11,,147432000,147432000,Ongoing,PM-032,High
+PRJ-0033,Preventive Maintenance of Water Supply at Sunrise Enclave (Sector 1),Maintenance,Mechanical Services Division,2026-10-07,2027-03-02,,1082000,1114000,Ongoing,PM-017,Medium
+PRJ-0034,Fire Safety System Maintenance at Riverside Complex (Sector 39),Maintenance,Electrical Works Division,2023-08-27,2024-03-22,2024-02-22,2111000,2111000,Completed,PM-009,Low
+PRJ-0035,Generator Overhaul and Servicing at Crescent Hills (Sector 3),Maintenance,Electrical Works Division,2024-11-06,2025-05-21,2025-08-02,3785000,3785000,Completed,PM-014,Medium
+PRJ-0036,Street Lighting Upkeep at Willow Bend Estate (Sector 40),Maintenance,Mechanical Services Division,2025-07-18,2026-03-18,2026-01-17,3031000,3031000,Completed,PM-021,Medium
+PRJ-0037,Construction of Storage Warehouse at Sunrise Enclave (Sector 1),Construction,Civil Works Division,2023-10-04,2024-11-29,2025-04-28,53734000,53734000,Completed,PM-002,Medium
+PRJ-0038,Renovation of Office Complex at Harmony Heights (Sector 1),Renovation,Civil Works Division,2023-09-23,2024-10-15,2025-02-26,25389000,25389000,Completed,PM-002,High
+PRJ-0039,Fire Safety System Maintenance at Cedar Ridge Campus (Sector 39),Maintenance,Building Maintenance Cell,2025-11-14,2026-09-29,,3116000,3116000,Ongoing,PM-054,Medium
+PRJ-0040,Pipeline Leak Repair at Silverline Township (Sector 20),Repair,Estate Management Branch,2025-01-12,2025-06-12,2025-05-03,1364000,1364000,Completed,PM-048,Low
+PRJ-0041,Fire Safety System Maintenance at Crescent Hills (Sector 35),Maintenance,Electrical Works Division,2024-09-10,2025-03-09,2025-01-24,477000,477000,Completed,PM-010,High
+PRJ-0042,Footbridge Deck Repair at Crescent Hills (Sector 39),Repair,Mechanical Services Division,2025-05-08,2026-01-06,2026-03-22,7660000,7660000,Completed,PM-017,Medium
+PRJ-0043,Roof Waterproofing Repair at Lotus Garden Colony (Sector 37),Repair,Civil Works Division,2025-10-17,2026-05-11,2026-05-28,3320000,3320000,Completed,PM-003,Low
+PRJ-0044,Preventive Maintenance of Water Supply at Lakeview Colony (Sector 31),Maintenance,Estate Management Branch,2026-03-22,2026-10-05,,5370000,5370000,Ongoing,PM-042,Medium
+PRJ-0045,Footbridge Deck Repair at Sunrise Enclave (Sector 28),Repair,Water & Sanitation Wing,2024-12-06,2025-05-23,2025-06-02,4912000,4912000,Completed,PM-032,Low
+PRJ-0046,Pavement Repair at Hillcrest Township (Sector 16),Repair,Electrical Works Division,2026-11-11,2027-04-21,,14947000,18454000,Not Started,PM-012,Low
+PRJ-0047,Generator Overhaul and Servicing at Maple Grove Estate (Sector 11),Maintenance,Estate Management Branch,2023-09-21,2024-05-07,2024-03-16,2806000,2806000,Completed,PM-044,High
+PRJ-0048,Annual Maintenance of Electrical Network at Granite Hill Campus (Sector 31),Maintenance,Building Maintenance Cell,2025-09-16,2026-03-30,2026-04-12,1251000,1251000,Completed,PM-052,Medium
+PRJ-0049,Pipeline Leak Repair at Lotus Garden Colony (Sector 23),Repair,Civil Works Division,2025-11-01,2026-08-09,,12451000,15091000,Ongoing,PM-006,Medium
+PRJ-0050,Construction of Canteen Building at Lotus Garden Colony (Sector 13),Construction,Civil Works Division,2023-04-17,2025-02-08,2025-06-03,46503000,46503000,Completed,PM-001,Low
+PRJ-0051,Annual Maintenance of Electrical Network at Willow Bend Estate (Sector 21),Maintenance,Estate Management Branch,2026-04-12,2026-10-29,2026-10-17,1830000,1830000,Completed,PM-041,High
+PRJ-0052,Construction of Multipurpose Hall at Northgate Cluster (Sector 14),Construction,Road & Drainage Unit,2024-09-24,2025-11-19,2025-11-04,53474000,53474000,Completed,PM-035,Low
+PRJ-0053,Retaining Wall Repair at Eastbrook Township (Sector 3),Repair,Road & Drainage Unit,2026-03-29,2026-10-28,2026-10-25,3159000,3159000,Completed,PM-039,High
+PRJ-0054,Drainage Line Repair at Meadow Park Colony (Sector 30),Repair,Civil Works Division,2026-02-21,2026-07-17,2026-09-06,3870000,4272000,Completed,PM-004,Medium
+PRJ-0055,Pipeline Leak Repair at Pinewood Quarter (Sector 32),Repair,Civil Works Division,2024-01-24,2024-08-15,2024-10-18,3820000,3820000,Completed,PM-001,Medium
+PRJ-0056,Footbridge Deck Repair at Lakeview Colony (Sector 7),Repair,Water & Sanitation Wing,2024-03-20,2024-10-18,2024-09-22,4052000,4052000,Completed,PM-029,High
+PRJ-0057,HVAC Servicing and Upkeep at Green Valley Campus (Sector 39),Maintenance,Mechanical Services Division,2025-04-17,2025-12-11,2026-08-08,2609000,2609000,Completed,PM-018,Medium
+PRJ-0058,Renovation of Dining Hall at Harmony Heights (Sector 13),Renovation,Civil Works Division,2026-03-26,2027-01-13,,3606000,3606000,Ongoing,PM-003,Low
+PRJ-0059,Construction of Administrative Block at Harmony Heights (Sector 10),Construction,Civil Works Division,2024-08-15,2026-01-21,2026-01-25,55539000,55539000,Completed,PM-001,Medium
+PRJ-0060,Construction of Canteen Building at Granite Hill Campus (Sector 32),Construction,Road & Drainage Unit,2026-01-17,2026-11-19,,14547000,14547000,Ongoing,PM-033,Medium
+PRJ-0061,Retaining Wall Repair at Cedar Ridge Campus (Sector 23),Repair,Mechanical Services Division,2024-08-21,2025-03-16,2025-02-17,3584000,3584000,Completed,PM-017,Low
+PRJ-0062,Renovation of Pump House at Crescent Hills (Sector 30),Renovation,Civil Works Division,2024-12-20,2026-02-28,,22456000,22456000,Ongoing,PM-005,High
+PRJ-0063,Renovation of Hostel Wing at Green Valley Campus (Sector 28),Renovation,Civil Works Division,2026-11-10,2027-11-03,,15741000,15741000,Not Started,PM-003,High
+PRJ-0064,Footbridge Deck Repair at Maple Grove Estate (Sector 16),Repair,Civil Works Division,2023-06-13,2023-12-02,2024-05-02,6155000,6340000,Completed,PM-001,High
+PRJ-0065,Renovation of Classroom Block at Lotus Garden Colony (Sector 33),Renovation,Electrical Works Division,2023-11-16,2024-09-05,2024-08-20,15109000,15562000,Completed,PM-011,Medium
+PRJ-0066,Renovation of Classroom Block at Sunrise Enclave (Sector 12),Renovation,Civil Works Division,2024-09-11,2025-08-03,2025-09-16,9991000,10291000,Completed,PM-002,High
+PRJ-0067,Renovation of Dining Hall at Lakeview Colony (Sector 37),Renovation,Electrical Works Division,2023-12-10,2024-11-18,2024-10-09,7789000,7789000,Completed,PM-011,Medium
+PRJ-0068,Drain Desilting and Upkeep at Cedar Ridge Campus (Sector 39),Maintenance,Water & Sanitation Wing,2026-10-17,2027-05-13,,5484000,5484000,Ongoing,PM-027,Medium
+PRJ-0069,Construction of Canteen Building at Cedar Ridge Campus (Sector 13),Construction,Estate Management Branch,2025-07-01,2027-05-01,,80017000,80017000,Ongoing,PM-042,Medium
+PRJ-0070,Annual Maintenance of Electrical Network at Meadow Park Colony (Sector 7),Maintenance,Electrical Works Division,2024-07-26,2025-01-24,2025-04-21,1743000,1743000,Completed,PM-012,Medium
+PRJ-0071,Annual Maintenance of Electrical Network at Lotus Garden Colony (Sector 37),Maintenance,Water & Sanitation Wing,2026-07-09,2027-03-08,,2822000,2822000,On Hold,PM-027,High
+PRJ-0072,HVAC Servicing and Upkeep at Lotus Garden Colony (Sector 10),Maintenance,Building Maintenance Cell,2025-09-20,2026-05-05,2026-04-18,2575000,2575000,Completed,PM-050,Low
+PRJ-0073,Water Tank Repair at Maple Grove Estate (Sector 16),Repair,Electrical Works Division,2024-12-02,2026-01-13,,10724000,13117000,Ongoing,PM-009,Low
+PRJ-0074,Fire Safety System Maintenance at Eastbrook Township (Sector 21),Maintenance,Building Maintenance Cell,2023-06-01,2023-10-23,2023-10-17,1431000,1431000,Completed,PM-049,Low
+PRJ-0075,Construction of Health Centre at Pinewood Quarter (Sector 1),Construction,Estate Management Branch,2023-05-31,2025-05-09,2025-12-04,28209000,29055000,Completed,PM-041,Medium
+PRJ-0076,Drain Desilting and Upkeep at Willow Bend Estate (Sector 19),Maintenance,Electrical Works Division,2025-04-19,2025-10-16,2025-10-23,1284000,1284000,Completed,PM-010,Medium
+PRJ-0077,Preventive Maintenance of Water Supply at Sunrise Enclave (Sector 31),Maintenance,Mechanical Services Division,2025-01-15,2025-08-15,2025-11-05,2133000,2197000,Completed,PM-017,Low
+PRJ-0078,Footbridge Deck Repair at Meadow Park Colony (Sector 18),Repair,Electrical Works Division,2026-08-26,2027-02-12,,2799000,2799000,Ongoing,PM-009,Low
+PRJ-0079,Renovation of Pump House at Northgate Cluster (Sector 38),Renovation,Estate Management Branch,2025-06-07,2026-05-11,2026-04-21,10712000,10712000,Completed,PM-045,Medium
+PRJ-0080,Compound Gate Repair at Eastbrook Township (Sector 23),Repair,Estate Management Branch,2026-09-13,2027-03-25,,3261000,3261000,Ongoing,PM-044,Medium
+PRJ-0081,Boundary Wall Repair at Lakeview Colony (Sector 1),Repair,Building Maintenance Cell,2027-01-30,2027-10-11,,5115000,5268000,Not Started,PM-050,High
+PRJ-0082,Street Lighting Upkeep at Silverline Township (Sector 40),Maintenance,Mechanical Services Division,2026-05-04,2026-12-07,,1999000,1999000,Ongoing,PM-017,Medium
+PRJ-0083,Boundary Wall Repair at Northgate Cluster (Sector 19),Repair,Civil Works Division,2025-06-09,2026-01-11,2026-03-09,1610000,1610000,Completed,PM-001,Low
+PRJ-0084,Construction of Administrative Block at Hillcrest Township (Sector 30),Construction,Road & Drainage Unit,2026-12-31,2028-06-11,,50586000,50586000,Not Started,PM-033,Medium
+PRJ-0085,Construction of Health Centre at Maple Grove Estate (Sector 1),Construction,Estate Management Branch,2026-09-07,2028-04-15,,52702000,58324000,Ongoing,PM-044,High
+PRJ-0086,Construction of Administrative Block at Meadow Park Colony (Sector 23),Construction,Electrical Works Division,2024-02-23,2025-03-20,2025-03-23,24223000,24223000,Completed,PM-015,High
+PRJ-0087,Drainage Line Repair at Granite Hill Campus (Sector 34),Repair,Estate Management Branch,2023-04-11,2023-10-23,2024-02-11,2970000,2970000,Completed,PM-043,High
+PRJ-0088,Preventive Maintenance of Water Supply at Meadow Park Colony (Sector 32),Maintenance,Building Maintenance Cell,2026-12-27,2027-11-10,,5404000,5404000,Not Started,PM-052,Low
+PRJ-0089,Construction of Library Building at Lotus Garden Colony (Sector 3),Construction,Estate Management Branch,2025-04-15,2026-10-01,2026-08-29,24662000,24662000,Completed,PM-043,High
+PRJ-0090,Renovation of Recreation Centre at Silverline Township (Sector 9),Renovation,Building Maintenance Cell,2025-03-10,2025-12-19,2025-10-26,8560000,8560000,Completed,PM-049,Medium
+PRJ-0091,Construction of Library Building at Meadow Park Colony (Sector 14),Construction,Building Maintenance Cell,2023-06-21,2024-07-06,2024-10-28,39131000,40305000,Completed,PM-052,Medium
+PRJ-0092,Retaining Wall Repair at Lotus Garden Colony (Sector 9),Repair,Civil Works Division,2024-04-08,2024-10-18,2024-11-03,5347000,5347000,Completed,PM-006,Low
+PRJ-0093,Lift Maintenance Contract at Pinewood Quarter (Sector 33),Maintenance,Electrical Works Division,2025-11-25,2026-05-03,2026-05-16,1623000,1623000,Completed,PM-011,High
+PRJ-0094,Road Surface Upkeep at Sunrise Enclave (Sector 9),Maintenance,Building Maintenance Cell,2025-04-09,2025-10-26,2025-11-12,1631000,1631000,Completed,PM-055,Low
+PRJ-0095,Drain Desilting and Upkeep at Riverside Complex (Sector 8),Maintenance,Electrical Works Division,2023-05-02,2023-10-13,2023-08-21,663000,663000,Completed,PM-010,Medium
+PRJ-0096,Renovation of Hostel Wing at Eastbrook Township (Sector 3),Renovation,Civil Works Division,2027-01-24,2028-10-03,,36476000,36476000,Not Started,PM-001,Medium
+PRJ-0097,Preventive Maintenance of Water Supply at Green Valley Campus (Sector 1),Maintenance,Civil Works Division,2026-06-17,2027-10-18,,9406000,9688000,Ongoing,PM-008,High
+PRJ-0098,Construction of Library Building at Northgate Cluster (Sector 13),Construction,Civil Works Division,2024-12-13,2026-02-10,2026-05-29,14279000,14279000,Completed,PM-006,Low
+PRJ-0099,Construction of Sports Pavilion at Granite Hill Campus (Sector 17),Construction,Civil Works Division,2024-09-24,2026-12-22,,65386000,65386000,Ongoing,PM-001,Medium
+PRJ-0100,Underground Cabling Network at Silverline Township (Sector 19),Infrastructure Development,Civil Works Division,2026-06-23,2027-10-19,,34072000,34072000,Ongoing,PM-002,Medium
+PRJ-0101,Sewage Treatment Plant at Granite Hill Campus (Sector 28),Infrastructure Development,Civil Works Division,2024-08-07,2026-01-28,2025-12-09,39897000,39897000,Completed,PM-001,High
+PRJ-0102,Pavement Repair at Crescent Hills (Sector 6),Repair,Civil Works Division,2025-05-21,2025-12-02,2025-12-08,4275000,4275000,Completed,PM-001,High
+PRJ-0103,Road Surface Upkeep at Northgate Cluster (Sector 31),Maintenance,Mechanical Services Division,2023-04-26,2023-10-12,2024-01-07,1072000,1072000,Completed,PM-018,Medium
+PRJ-0104,Underground Cabling Network at Green Valley Campus (Sector 19),Infrastructure Development,Electrical Works Division,2025-04-02,2027-07-12,,134253000,138281000,Ongoing,PM-014,Medium
+PRJ-0105,Drainage Line Repair at Silverline Township (Sector 7),Repair,Water & Sanitation Wing,2024-01-27,2024-09-19,2024-08-20,6197000,6197000,Completed,PM-032,Low
+PRJ-0106,Drainage Line Repair at Granite Hill Campus (Sector 15),Repair,Civil Works Division,2025-07-01,2025-10-27,2025-09-24,773000,773000,Completed,PM-001,Medium
+PRJ-0107,Annual Maintenance of Electrical Network at Orchard Park Campus (Sector 19),Maintenance,Electrical Works Division,2026-07-18,2027-01-02,,2589000,2589000,Ongoing,PM-015,Medium
+PRJ-0108,Lift Maintenance Contract at Granite Hill Campus (Sector 14),Maintenance,Water & Sanitation Wing,2025-03-05,2025-11-23,2025-12-10,2070000,2070000,Completed,PM-025,Medium
+PRJ-0109,Construction of Sports Pavilion at Maple Grove Estate (Sector 39),Construction,Civil Works Division,2025-11-23,2027-09-14,,96384000,96384000,Ongoing,PM-006,High
+PRJ-0110,Water Distribution Network at Northgate Cluster (Sector 17),Infrastructure Development,Electrical Works Division,2024-03-22,2025-07-19,2025-05-09,21158000,21158000,Completed,PM-010,Low
+PRJ-0111,Street Lighting Upkeep at Riverside Complex (Sector 2),Maintenance,Electrical Works Division,2025-03-31,2025-11-09,2025-12-28,1724000,1724000,Completed,PM-009,Low
+PRJ-0112,Road Surface Upkeep at Sunrise Enclave (Sector 23),Maintenance,Civil Works Division,2023-10-13,2024-09-23,2024-12-29,7723000,7723000,Completed,PM-004,Medium
+PRJ-0113,Annual Maintenance of Electrical Network at Lotus Garden Colony (Sector 8),Maintenance,Mechanical Services Division,2024-01-08,2024-06-12,2024-05-10,748000,748000,Completed,PM-018,Medium
+PRJ-0114,Renovation of Office Complex at Silverline Township (Sector 26),Renovation,Civil Works Division,2024-11-19,2025-07-29,2025-07-26,10715000,10715000,Completed,PM-003,Low
+PRJ-0115,Construction of Health Centre at Willow Bend Estate (Sector 21),Construction,Civil Works Division,2025-09-04,2027-07-07,,42783000,42783000,Ongoing,PM-004,High
+PRJ-0116,Footbridge Deck Repair at Crescent Hills (Sector 2),Repair,Mechanical Services Division,2024-01-17,2024-08-30,2024-10-31,3420000,3420000,Completed,PM-018,High
+PRJ-0117,Staircase Structural Repair at Pinewood Quarter (Sector 18),Repair,Civil Works Division,2023-04-13,2023-11-27,2024-11-12,6970000,7179000,Completed,PM-004,Medium
+PRJ-0118,Footbridge Deck Repair at Silverline Township (Sector 39),Repair,Building Maintenance Cell,2026-11-25,2027-07-08,,8884000,8884000,Not Started,PM-053,Medium
+PRJ-0119,Drain Desilting and Upkeep at Pinewood Quarter (Sector 33),Maintenance,Electrical Works Division,2023-12-14,2024-06-15,2024-05-22,597000,597000,Completed,PM-010,Low
+PRJ-0120,Renovation of Guest House at Pinewood Quarter (Sector 20),Renovation,Building Maintenance Cell,2026-10-22,2028-03-12,,23034000,23034000,Ongoing,PM-050,Medium
+PRJ-0121,Renovation of Hostel Wing at Pinewood Quarter (Sector 19),Renovation,Estate Management Branch,2024-06-27,2025-06-20,2025-08-04,20735000,20735000,Completed,PM-043,Medium
+PRJ-0122,Compound Gate Repair at Riverside Complex (Sector 21),Repair,Road & Drainage Unit,2026-06-04,2027-02-06,,13889000,13889000,Ongoing,PM-039,Medium
+PRJ-0123,Construction of Administrative Block at Maple Grove Estate (Sector 29),Construction,Civil Works Division,2026-02-09,2027-07-18,,16286000,16286000,Ongoing,PM-004,Medium
+PRJ-0124,Generator Overhaul and Servicing at Orchard Park Campus (Sector 29),Maintenance,Mechanical Services Division,2024-08-03,2025-01-31,2024-12-16,1660000,1660000,Completed,PM-017,Medium
+PRJ-0125,Construction of Sports Pavilion at Lotus Garden Colony (Sector 8),Construction,Civil Works Division,2025-07-30,2027-06-29,,114720000,114720000,Ongoing,PM-005,Medium
+PRJ-0126,Renovation of Dining Hall at Granite Hill Campus (Sector 3),Renovation,Civil Works Division,2027-01-18,2027-11-17,,32630000,35409000,Not Started,PM-001,High
+PRJ-0127,Street Lighting Upkeep at Maple Grove Estate (Sector 28),Maintenance,Mechanical Services Division,2025-04-26,2025-11-23,2025-12-30,4000000,4000000,Completed,PM-017,Medium
+PRJ-0128,Construction of Library Building at Northgate Cluster (Sector 32),Construction,Civil Works Division,2024-09-30,2026-03-17,2026-05-15,14840000,14840000,Completed,PM-006,Medium
+PRJ-0129,Construction of Community Hall at Eastbrook Township (Sector 21),Construction,Mechanical Services Division,2025-03-11,2027-02-28,,52288000,47395000,Ongoing,PM-017,High
+PRJ-0130,Renovation of Office Complex at Sunrise Enclave (Sector 11),Renovation,Estate Management Branch,2026-09-16,2027-11-11,,11763000,11763000,Ongoing,PM-041,Medium
+PRJ-0131,Construction of Administrative Block at Silverline Township (Sector 37),Construction,Civil Works Division,2024-05-19,2025-10-04,2026-02-06,46259000,46259000,Completed,PM-004,High
+PRJ-0132,Street Lighting Grid Upgrade at Sunrise Enclave (Sector 23),Infrastructure Development,Electrical Works Division,2023-12-17,2025-01-21,2025-08-18,35452000,36516000,Completed,PM-010,Medium
+PRJ-0133,Renovation of Pump House at Cedar Ridge Campus (Sector 31),Renovation,Civil Works Division,2026-08-24,2027-08-15,,23409000,24896000,Ongoing,PM-006,Low
+PRJ-0134,Street Lighting Upkeep at Granite Hill Campus (Sector 16),Maintenance,Building Maintenance Cell,2025-06-13,2025-12-01,2025-11-05,1272000,1272000,Completed,PM-049,Medium
+PRJ-0135,Renovation of Recreation Centre at Crescent Hills (Sector 9),Renovation,Civil Works Division,2026-08-21,2027-06-08,,11369000,11369000,Ongoing,PM-007,Medium
+PRJ-0136,Construction of Library Building at Meadow Park Colony (Sector 12),Construction,Civil Works Division,2023-09-16,2025-12-03,2026-01-22,256304000,256304000,Completed,PM-004,Low
+PRJ-0137,Water Distribution Network at Hillcrest Township (Sector 10),Infrastructure Development,Electrical Works Division,2025-02-02,2026-12-01,,44769000,44769000,Ongoing,PM-010,High
+PRJ-0138,Renovation of Recreation Centre at Granite Hill Campus (Sector 13),Renovation,Building Maintenance Cell,2026-03-09,2027-02-12,,14842000,15287000,Ongoing,PM-052,Low
+PRJ-0139,Retaining Wall Repair at Silverline Township (Sector 27),Repair,Electrical Works Division,2026-06-29,2027-01-13,,6551000,6551000,Ongoing,PM-010,Low
+PRJ-0140,Construction of Community Hall at Meadow Park Colony (Sector 20),Construction,Road & Drainage Unit,2023-11-22,2025-05-10,2025-06-01,44795000,44795000,Completed,PM-037,High
+PRJ-0141,Renovation of Hostel Wing at Maple Grove Estate (Sector 20),Renovation,Civil Works Division,2023-04-17,2024-04-03,2024-09-13,18638000,19197000,Completed,PM-005,Medium
+PRJ-0142,Renovation of Recreation Centre at Silverline Township (Sector 35),Renovation,Civil Works Division,2024-01-19,2024-12-02,2025-04-13,27864000,27864000,Completed,PM-008,Medium
+PRJ-0143,Internal Road Network Development at Cedar Ridge Campus (Sector 19),Infrastructure Development,Water & Sanitation Wing,2025-12-07,2027-07-14,,106428000,106428000,Ongoing,PM-025,Medium
+PRJ-0144,Renovation of Classroom Block at Granite Hill Campus (Sector 40),Renovation,Civil Works Division,2024-05-25,2025-05-27,2025-04-20,24789000,24789000,Completed,PM-006,High
+PRJ-0145,Renovation of Auditorium at Crescent Hills (Sector 7),Renovation,Mechanical Services Division,2026-02-03,2026-12-13,,21210000,23057000,Ongoing,PM-017,High
+PRJ-0146,Annual Maintenance of Electrical Network at Sunrise Enclave (Sector 24),Maintenance,Water & Sanitation Wing,2025-07-20,2026-04-07,2026-07-31,762000,762000,Completed,PM-025,Low
+PRJ-0147,Annual Maintenance of Electrical Network at Lotus Garden Colony (Sector 24),Maintenance,Mechanical Services Division,2025-09-09,2026-05-25,2026-08-19,12973000,12973000,Completed,PM-017,Medium
+PRJ-0148,Renovation of Guest House at Lotus Garden Colony (Sector 31),Renovation,Civil Works Division,2023-12-01,2024-09-08,2024-10-11,12128000,12128000,Completed,PM-001,High
+PRJ-0149,HVAC Servicing and Upkeep at Harmony Heights (Sector 8),Maintenance,Building Maintenance Cell,2023-11-19,2024-03-15,2024-02-10,1069000,1069000,Completed,PM-049,High
+PRJ-0150,Construction of Library Building at Orchard Park Campus (Sector 27),Construction,Civil Works Division,2023-09-04,2025-03-19,2025-10-16,68325000,68325000,Completed,PM-002,High
+PRJ-0151,Footbridge Deck Repair at Orchard Park Campus (Sector 9),Repair,Road & Drainage Unit,2023-06-17,2024-02-19,2024-05-10,11763000,13043000,Completed,PM-033,Low
+PRJ-0152,Street Lighting Grid Upgrade at Northgate Cluster (Sector 28),Infrastructure Development,Road & Drainage Unit,2023-11-21,2025-05-21,2025-08-27,74477000,76711000,Completed,PM-033,High
+PRJ-0153,Construction of Canteen Building at Eastbrook Township (Sector 30),Construction,Civil Works Division,2025-08-29,2027-01-30,,13970000,13970000,Ongoing,PM-003,High
+PRJ-0154,Renovation of Pump House at Silverline Township (Sector 24),Renovation,Building Maintenance Cell,2024-01-26,2024-12-12,2025-02-05,17104000,17617000,Completed,PM-052,Low
+PRJ-0155,Construction of Health Centre at Willow Bend Estate (Sector 18),Construction,Civil Works Division,2026-08-10,2028-06-21,,61742000,61742000,Ongoing,PM-001,Medium
+PRJ-0156,Roof Waterproofing Repair at Green Valley Campus (Sector 32),Repair,Road & Drainage Unit,2023-10-18,2024-04-23,2024-04-15,1714000,1714000,Completed,PM-039,Medium
+PRJ-0157,Generator Overhaul and Servicing at Eastbrook Township (Sector 31),Maintenance,Electrical Works Division,2023-11-26,2024-06-18,2024-04-29,2225000,2225000,Completed,PM-010,High
+PRJ-0158,Boundary Wall Repair at Eastbrook Township (Sector 24),Repair,Estate Management Branch,2025-01-22,2025-08-12,2025-10-26,5553000,5720000,Completed,PM-048,High
+PRJ-0159,Pavement Repair at Pinewood Quarter (Sector 23),Repair,Civil Works Division,2025-01-26,2025-08-10,2025-10-18,4926000,4926000,Completed,PM-001,Low
+PRJ-0160,Retaining Wall Repair at Cedar Ridge Campus (Sector 21),Repair,Civil Works Division,2026-11-16,2027-05-11,,934000,934000,Not Started,PM-001,Medium
+PRJ-0161,Construction of Staff Residential Block at Sunrise Enclave (Sector 21),Construction,Mechanical Services Division,2025-04-24,2026-04-02,2026-07-07,85846000,85846000,Completed,PM-017,High
+PRJ-0162,Sewage Treatment Plant at Orchard Park Campus (Sector 10),Infrastructure Development,Water & Sanitation Wing,2025-12-12,2027-09-10,,105084000,108237000,Ongoing,PM-025,Low
+PRJ-0163,Drain Desilting and Upkeep at Lakeview Colony (Sector 14),Maintenance,Road & Drainage Unit,2023-04-14,2023-11-12,2024-01-14,4156000,4156000,Completed,PM-035,High
+PRJ-0164,Construction of Storage Warehouse at Lotus Garden Colony (Sector 4),Construction,Road & Drainage Unit,2026-05-02,2027-09-16,,18781000,18781000,Ongoing,PM-039,Medium
+PRJ-0165,Renovation of Office Complex at Green Valley Campus (Sector 31),Renovation,Civil Works Division,2023-11-09,2024-12-20,2024-11-17,17071000,17071000,Completed,PM-008,Medium
+PRJ-0166,Landscape and Garden Maintenance at Meadow Park Colony (Sector 25),Maintenance,Building Maintenance Cell,2026-05-18,2027-02-14,,3839000,3839000,Ongoing,PM-049,Medium
+PRJ-0167,Compound Gate Repair at Northgate Cluster (Sector 34),Repair,Water & Sanitation Wing,2026-08-25,2027-02-03,,2480000,2480000,On Hold,PM-025,High
+PRJ-0168,Pipeline Leak Repair at Riverside Complex (Sector 17),Repair,Estate Management Branch,2024-09-18,2025-05-08,2025-04-11,4069000,4069000,Completed,PM-041,Low
+PRJ-0169,Street Lighting Upkeep at Willow Bend Estate (Sector 31),Maintenance,Civil Works Division,2024-08-17,2025-04-22,2025-05-13,1621000,1621000,Completed,PM-004,Medium
+PRJ-0170,Solar Power Plant Installation at Harmony Heights (Sector 32),Infrastructure Development,Civil Works Division,2024-08-09,2027-07-08,,230269000,238706000,On Hold,PM-001,High
+PRJ-0171,Generator Overhaul and Servicing at Riverside Complex (Sector 12),Maintenance,Electrical Works Division,2026-03-04,2026-11-23,,4472000,4472000,On Hold,PM-010,High
+PRJ-0172,Renovation of Auditorium at Green Valley Campus (Sector 35),Renovation,Building Maintenance Cell,2025-01-05,2026-05-19,,52817000,54402000,Ongoing,PM-051,Medium
+PRJ-0173,HVAC Servicing and Upkeep at Maple Grove Estate (Sector 14),Maintenance,Building Maintenance Cell,2024-01-21,2024-06-18,2024-06-01,1214000,1214000,Completed,PM-050,Low
+PRJ-0174,Internal Road Network Development at Meadow Park Colony (Sector 6),Infrastructure Development,Mechanical Services Division,2024-02-10,2026-09-07,2026-08-10,116999000,116999000,Completed,PM-017,High
+PRJ-0175,Construction of Staff Residential Block at Harmony Heights (Sector 24),Construction,Civil Works Division,2024-04-28,2025-11-20,2025-10-05,26925000,26925000,Completed,PM-008,High
+PRJ-0176,Construction of Storage Warehouse at Silverline Township (Sector 25),Construction,Road & Drainage Unit,2024-02-08,2025-05-07,2025-06-01,31818000,27129000,Completed,PM-037,Medium
+PRJ-0177,Street Lighting Upkeep at Granite Hill Campus (Sector 26),Maintenance,Building Maintenance Cell,2025-09-09,2026-06-02,2026-07-14,1411000,1411000,Completed,PM-049,High
+PRJ-0178,Water Distribution Network at Green Valley Campus (Sector 1),Infrastructure Development,Water & Sanitation Wing,2023-08-13,2024-12-10,2025-02-17,280531000,288947000,Completed,PM-026,Medium
+PRJ-0179,Water Distribution Network at Orchard Park Campus (Sector 3),Infrastructure Development,Road & Drainage Unit,2025-02-17,2026-06-01,2026-02-19,77814000,80148000,Completed,PM-035,High
+PRJ-0180,Water Tank Repair at Cedar Ridge Campus (Sector 9),Repair,Civil Works Division,2026-06-19,2026-11-13,,4226000,4226000,On Hold,PM-007,Medium
+PRJ-0181,Street Lighting Grid Upgrade at Maple Grove Estate (Sector 14),Infrastructure Development,Road & Drainage Unit,2024-09-12,2026-06-10,2026-10-11,52484000,52484000,Completed,PM-033,Medium
+PRJ-0182,Solar Power Plant Installation at Pinewood Quarter (Sector 15),Infrastructure Development,Civil Works Division,2023-07-22,2025-01-25,2026-01-26,48086000,49529000,Completed,PM-007,High
+PRJ-0183,Renovation of Auditorium at Lotus Garden Colony (Sector 19),Renovation,Civil Works Division,2025-05-18,2026-01-16,2026-02-06,30377000,30377000,Completed,PM-007,Low
+PRJ-0184,HVAC Servicing and Upkeep at Orchard Park Campus (Sector 25),Maintenance,Electrical Works Division,2024-03-18,2024-09-18,2024-08-30,4558000,4558000,Completed,PM-009,High
+PRJ-0185,Roof Waterproofing Repair at Silverline Township (Sector 5),Repair,Water & Sanitation Wing,2024-02-16,2024-06-17,2024-07-18,1149000,1149000,Completed,PM-025,Medium
+PRJ-0186,Roof Waterproofing Repair at Maple Grove Estate (Sector 39),Repair,Building Maintenance Cell,2026-06-17,2027-02-06,,1778000,1778000,Ongoing,PM-050,Medium
+PRJ-0187,Fire Safety System Maintenance at Northgate Cluster (Sector 8),Maintenance,Electrical Works Division,2026-06-02,2027-05-01,,3743000,3743000,Ongoing,PM-011,Medium
+PRJ-0188,Construction of Community Hall at Sunrise Enclave (Sector 37),Construction,Civil Works Division,2026-04-26,2027-06-27,,37334000,38454000,Ongoing,PM-003,Medium
+PRJ-0189,Pavement Repair at Crescent Hills (Sector 33),Repair,Water & Sanitation Wing,2024-02-12,2024-06-09,2024-06-12,709000,709000,Completed,PM-025,High
+PRJ-0190,Generator Overhaul and Servicing at Granite Hill Campus (Sector 40),Maintenance,Mechanical Services Division,2026-09-02,2027-03-26,,4307000,4307000,Ongoing,PM-017,Medium
+PRJ-0191,Water Distribution Network at Silverline Township (Sector 7),Infrastructure Development,Road & Drainage Unit,2025-09-28,2026-12-29,,49753000,49753000,Ongoing,PM-033,High
+PRJ-0192,Preventive Maintenance of Water Supply at Lotus Garden Colony (Sector 6),Maintenance,Building Maintenance Cell,2025-02-21,2025-09-10,2025-08-31,1939000,1939000,Completed,PM-054,Low
+PRJ-0193,Construction of Library Building at Eastbrook Township (Sector 31),Construction,Electrical Works Division,2024-10-23,2025-09-17,2025-09-07,25005000,25005000,Completed,PM-009,Medium
+PRJ-0194,Pipeline Leak Repair at Sunrise Enclave (Sector 39),Repair,Mechanical Services Division,2023-12-26,2024-07-21,2024-08-27,5806000,4990000,Completed,PM-017,High
+PRJ-0195,Construction of Health Centre at Granite Hill Campus (Sector 13),Construction,Mechanical Services Division,2026-11-10,2027-11-12,,26829000,26829000,Not Started,PM-018,High
+PRJ-0196,Construction of Health Centre at Northgate Cluster (Sector 40),Construction,Building Maintenance Cell,2024-11-14,2026-10-01,,293261000,302059000,On Hold,PM-049,High
+PRJ-0197,Renovation of Dining Hall at Lakeview Colony (Sector 25),Renovation,Estate Management Branch,2025-03-15,2026-04-16,,25817000,27227000,Ongoing,PM-041,Medium
+PRJ-0198,Underground Cabling Network at Riverside Complex (Sector 39),Infrastructure Development,Mechanical Services Division,2023-12-16,2026-04-06,2026-06-04,81406000,81406000,Completed,PM-018,High
+PRJ-0199,HVAC Servicing and Upkeep at Hillcrest Township (Sector 16),Maintenance,Civil Works Division,2026-06-23,2027-02-14,,2233000,2233000,On Hold,PM-002,Low
+PRJ-0200,Lift Maintenance Contract at Meadow Park Colony (Sector 35),Maintenance,Civil Works Division,2025-11-18,2026-06-13,2026-08-01,2327000,2327000,Completed,PM-001,High
+PRJ-0201,Compound Gate Repair at Northgate Cluster (Sector 18),Repair,Electrical Works Division,2024-11-25,2025-07-23,2025-12-25,3690000,4237000,Completed,PM-013,Low
+PRJ-0202,Sewage Treatment Plant at Orchard Park Campus (Sector 12),Infrastructure Development,Water & Sanitation Wing,2024-04-19,2026-04-20,2026-04-14,485127000,485127000,Completed,PM-030,Medium
+PRJ-0203,Renovation of Classroom Block at Crescent Hills (Sector 2),Renovation,Building Maintenance Cell,2026-07-26,2027-08-11,,22162000,22162000,Ongoing,PM-049,Medium
+PRJ-0204,Construction of Sports Pavilion at Northgate Cluster (Sector 6),Construction,Civil Works Division,2024-10-08,2026-02-10,,25988000,28017000,Ongoing,PM-005,Low
+PRJ-0205,Construction of Canteen Building at Willow Bend Estate (Sector 37),Construction,Estate Management Branch,2025-04-25,2026-04-05,2026-07-28,45029000,48891000,Completed,PM-042,Medium
+PRJ-0206,Drain Desilting and Upkeep at Meadow Park Colony (Sector 2),Maintenance,Electrical Works Division,2025-07-29,2026-03-14,2026-04-17,3532000,3532000,Completed,PM-015,Low
+PRJ-0207,Construction of Staff Residential Block at Silverline Township (Sector 32),Construction,Estate Management Branch,2025-05-27,2027-07-10,,123626000,127335000,On Hold,PM-041,High
+PRJ-0208,Roof Waterproofing Repair at Meadow Park Colony (Sector 21),Repair,Electrical Works Division,2027-02-06,2027-08-25,,2915000,2915000,Not Started,PM-009,Low
+PRJ-0209,Construction of Canteen Building at Willow Bend Estate (Sector 28),Construction,Road & Drainage Unit,2025-07-06,2026-10-05,,51659000,51659000,Ongoing,PM-033,High
+PRJ-0210,Renovation of Auditorium at Riverside Complex (Sector 17),Renovation,Building Maintenance Cell,2024-05-11,2025-10-30,2025-11-05,17204000,17204000,Completed,PM-050,Medium
+PRJ-0211,Drainage Line Repair at Hillcrest Township (Sector 18),Repair,Mechanical Services Division,2026-05-25,2026-12-23,,1801000,1855000,Ongoing,PM-018,Medium
+PRJ-0212,Renovation of Dining Hall at Crescent Hills (Sector 11),Renovation,Electrical Works Division,2025-04-15,2026-05-13,2026-09-27,17227000,17227000,Completed,PM-011,High
+PRJ-0213,HVAC Servicing and Upkeep at Hillcrest Township (Sector 7),Maintenance,Electrical Works Division,2025-09-13,2026-02-22,2026-02-17,571000,571000,Completed,PM-009,Low
+PRJ-0214,Footbridge Deck Repair at Riverside Complex (Sector 29),Repair,Water & Sanitation Wing,2024-10-12,2025-06-17,2025-06-08,1490000,1490000,Completed,PM-032,High
+PRJ-0215,Water Tank Repair at Eastbrook Township (Sector 16),Repair,Water & Sanitation Wing,2025-08-10,2026-03-30,2026-03-30,3066000,3158000,Completed,PM-025,Low
+PRJ-0216,Retaining Wall Repair at Eastbrook Township (Sector 12),Repair,Building Maintenance Cell,2025-08-12,2025-12-09,2025-11-09,897000,897000,Completed,PM-050,Medium
+PRJ-0217,Construction of Storage Warehouse at Sunrise Enclave (Sector 18),Construction,Road & Drainage Unit,2023-10-11,2024-09-25,2024-10-04,73483000,73483000,Completed,PM-038,High
+PRJ-0218,Construction of Sports Pavilion at Hillcrest Township (Sector 3),Construction,Estate Management Branch,2023-06-18,2025-03-11,2025-03-10,11889000,11889000,Completed,PM-045,Low
+PRJ-0219,Stormwater Drainage System at Maple Grove Estate (Sector 34),Infrastructure Development,Electrical Works Division,2026-02-08,2027-07-15,,87256000,87256000,Ongoing,PM-010,Medium
+PRJ-0220,Generator Overhaul and Servicing at Northgate Cluster (Sector 36),Maintenance,Building Maintenance Cell,2025-09-13,2026-03-28,,3286000,3385000,Ongoing,PM-049,Medium
+PRJ-0221,Preventive Maintenance of Water Supply at Hillcrest Township (Sector 3),Maintenance,Road & Drainage Unit,2026-04-18,2026-11-06,,1936000,1936000,Ongoing,PM-033,High
+PRJ-0222,Renovation of Hostel Wing at Willow Bend Estate (Sector 6),Renovation,Civil Works Division,2026-09-24,2027-08-07,,11128000,11128000,Ongoing,PM-001,Medium
+PRJ-0223,Water Tank Repair at Cedar Ridge Campus (Sector 38),Repair,Civil Works Division,2026-09-06,2027-03-12,,1459000,1459000,Ongoing,PM-001,Low
+PRJ-0224,Water Distribution Network at Cedar Ridge Campus (Sector 27),Infrastructure Development,Civil Works Division,2023-08-03,2025-08-02,2025-03-14,197346000,197346000,Completed,PM-002,High
+PRJ-0225,Landscape and Garden Maintenance at Maple Grove Estate (Sector 37),Maintenance,Building Maintenance Cell,2027-01-20,2027-08-01,,3671000,3671000,Not Started,PM-050,High
+PRJ-0226,Underground Cabling Network at Meadow Park Colony (Sector 36),Infrastructure Development,Electrical Works Division,2026-06-18,2027-11-04,,40423000,44553000,Ongoing,PM-009,Low
+PRJ-0227,Construction of Administrative Block at Maple Grove Estate (Sector 1),Construction,Civil Works Division,2024-06-04,2025-09-07,2025-12-07,70718000,70718000,Completed,PM-003,High
+PRJ-0228,Renovation of Hostel Wing at Granite Hill Campus (Sector 22),Renovation,Civil Works Division,2023-12-17,2025-07-23,2025-04-22,23924000,23924000,Completed,PM-005,Medium
+PRJ-0229,Renovation of Hostel Wing at Meadow Park Colony (Sector 22),Renovation,Mechanical Services Division,2025-08-17,2026-10-07,,23644000,24984000,Ongoing,PM-017,Medium
+PRJ-0230,Construction of Library Building at Riverside Complex (Sector 18),Construction,Electrical Works Division,2025-10-29,2027-08-16,,34365000,34365000,Ongoing,PM-009,Medium
+PRJ-0231,Construction of Community Hall at Green Valley Campus (Sector 12),Construction,Estate Management Branch,2025-06-22,2026-11-27,,24620000,25359000,Ongoing,PM-041,High
+PRJ-0232,Lift Maintenance Contract at Orchard Park Campus (Sector 20),Maintenance,Mechanical Services Division,2025-10-10,2026-04-15,2026-03-18,2008000,2008000,Completed,PM-022,Medium
+PRJ-0233,Rainwater Harvesting System at Riverside Complex (Sector 25),Infrastructure Development,Electrical Works Division,2025-11-04,2027-06-05,,84585000,84585000,Ongoing,PM-016,High
+PRJ-0234,Renovation of Office Complex at Cedar Ridge Campus (Sector 2),Renovation,Civil Works Division,2025-07-28,2026-02-27,2026-04-17,10868000,11194000,Completed,PM-004,Low
+PRJ-0235,Water Distribution Network at Granite Hill Campus (Sector 12),Infrastructure Development,Civil Works Division,2026-10-13,2027-11-27,,43922000,43922000,Ongoing,PM-001,High
+PRJ-0236,Compound Gate Repair at Sunrise Enclave (Sector 23),Repair,Road & Drainage Unit,2024-02-06,2024-06-02,2024-05-31,1304000,1304000,Completed,PM-039,Medium
+PRJ-0237,Road Surface Upkeep at Maple Grove Estate (Sector 7),Maintenance,Building Maintenance Cell,2026-10-05,2027-03-27,,3331000,3331000,Ongoing,PM-052,Medium
+PRJ-0238,Footbridge Deck Repair at Granite Hill Campus (Sector 3),Repair,Civil Works Division,2023-10-03,2024-03-16,2024-04-29,4239000,4239000,Completed,PM-006,Medium
+PRJ-0239,Construction of Community Hall at Lakeview Colony (Sector 40),Construction,Water & Sanitation Wing,2025-11-23,2027-07-16,,13343000,13343000,Ongoing,PM-029,Low
+PRJ-0240,Construction of Multipurpose Hall at Sunrise Enclave (Sector 39),Construction,Road & Drainage Unit,2025-04-29,2026-09-10,,68050000,70092000,Ongoing,PM-035,Low
+PRJ-0241,Water Tank Repair at Lotus Garden Colony (Sector 25),Repair,Mechanical Services Division,2024-01-03,2024-10-02,2024-09-24,4183000,4183000,Completed,PM-019,Low
+PRJ-0242,Pavement Repair at Meadow Park Colony (Sector 28),Repair,Mechanical Services Division,2026-12-15,2027-04-25,,844000,844000,Not Started,PM-018,Medium
+PRJ-0243,Landscape and Garden Maintenance at Sunrise Enclave (Sector 36),Maintenance,Building Maintenance Cell,2026-05-04,2026-11-30,,2710000,2791000,On Hold,PM-051,Medium
+PRJ-0244,Renovation of Dining Hall at Silverline Township (Sector 12),Renovation,Civil Works Division,2026-04-15,2026-12-17,,17290000,17290000,Ongoing,PM-001,Medium
+PRJ-0245,Renovation of Recreation Centre at Granite Hill Campus (Sector 10),Renovation,Electrical Works Division,2026-05-31,2027-10-27,,39975000,41174000,Ongoing,PM-011,Low
+PRJ-0246,Pavement Repair at Sunrise Enclave (Sector 22),Repair,Road & Drainage Unit,2023-08-18,2024-03-30,2024-07-01,3157000,3157000,Completed,PM-035,High
+PRJ-0247,Renovation of Recreation Centre at Lakeview Colony (Sector 3),Renovation,Civil Works Division,2025-12-02,2026-11-26,2026-10-13,21823000,21823000,Completed,PM-001,Medium
+PRJ-0248,Fire Safety System Maintenance at Hillcrest Township (Sector 17),Maintenance,Electrical Works Division,2023-12-31,2024-07-29,2024-06-25,1460000,1395000,Completed,PM-009,Low
+PRJ-0249,Street Lighting Upkeep at Hillcrest Township (Sector 32),Maintenance,Estate Management Branch,2023-12-20,2024-07-17,2024-09-09,1455000,1499000,Completed,PM-044,Medium
+PRJ-0250,Fire Safety System Maintenance at Lakeview Colony (Sector 40),Maintenance,Electrical Works Division,2026-06-10,2027-01-08,,3516000,3516000,Ongoing,PM-010,Low
+PRJ-0251,Drainage Line Repair at Orchard Park Campus (Sector 12),Repair,Civil Works Division,2025-04-14,2025-09-30,2025-09-08,4080000,4080000,Completed,PM-005,Low
+PRJ-0252,Water Tank Repair at Silverline Township (Sector 21),Repair,Water & Sanitation Wing,2026-01-15,2026-07-08,2026-06-21,4971000,4971000,Completed,PM-025,High
+PRJ-0253,Annual Maintenance of Electrical Network at Cedar Ridge Campus (Sector 36),Maintenance,Water & Sanitation Wing,2025-09-02,2026-03-07,2026-02-08,1308000,1347000,Completed,PM-028,Low
+PRJ-0254,Street Lighting Upkeep at Harmony Heights (Sector 10),Maintenance,Building Maintenance Cell,2026-08-14,2027-04-11,,2622000,2701000,Ongoing,PM-051,High
+PRJ-0255,Generator Overhaul and Servicing at Granite Hill Campus (Sector 35),Maintenance,Mechanical Services Division,2026-01-30,2026-08-21,,4646000,4646000,Ongoing,PM-019,High
+PRJ-0256,Water Tank Repair at Lakeview Colony (Sector 26),Repair,Estate Management Branch,2026-01-24,2026-08-15,,3480000,3480000,Ongoing,PM-043,Low
+PRJ-0257,Boundary Wall Repair at Harmony Heights (Sector 35),Repair,Road & Drainage Unit,2023-09-01,2024-04-21,2024-05-28,5804000,7636000,Completed,PM-033,Medium
+PRJ-0258,Construction of Multipurpose Hall at Green Valley Campus (Sector 14),Construction,Civil Works Division,2026-06-28,2027-09-06,,11773000,11773000,Ongoing,PM-005,High
+PRJ-0259,Construction of Storage Warehouse at Willow Bend Estate (Sector 37),Construction,Estate Management Branch,2025-01-21,2026-06-06,2026-08-19,12285000,12285000,Completed,PM-044,High
+PRJ-0260,Renovation of Hostel Wing at Eastbrook Township (Sector 39),Renovation,Civil Works Division,2025-08-14,2027-03-12,,26042000,26042000,Ongoing,PM-006,High
+PRJ-0261,Construction of Canteen Building at Eastbrook Township (Sector 5),Construction,Road & Drainage Unit,2023-10-30,2025-03-30,2025-07-26,178417000,207929000,Completed,PM-033,High
+PRJ-0262,Water Tank Repair at Granite Hill Campus (Sector 31),Repair,Electrical Works Division,2026-12-10,2027-07-19,,2794000,2794000,Not Started,PM-009,Low
+PRJ-0263,Street Lighting Upkeep at Hillcrest Township (Sector 28),Maintenance,Building Maintenance Cell,2023-07-05,2023-11-23,2023-11-30,508000,508000,Completed,PM-056,Medium
+PRJ-0264,Construction of Staff Residential Block at Lotus Garden Colony (Sector 7),Construction,Road & Drainage Unit,2026-11-12,2028-10-06,,64595000,64595000,Not Started,PM-037,Medium
+PRJ-0265,Sewage Treatment Plant at Harmony Heights (Sector 3),Infrastructure Development,Civil Works Division,2026-12-09,2029-04-28,,112586000,112586000,Not Started,PM-008,Low
+PRJ-0266,Construction of Sports Pavilion at Orchard Park Campus (Sector 12),Construction,Road & Drainage Unit,2025-11-19,2027-09-04,,102061000,114118000,Ongoing,PM-035,High
+PRJ-0267,Lift Maintenance Contract at Silverline Township (Sector 10),Maintenance,Civil Works Division,2026-06-29,2026-12-29,,4396000,4396000,Ongoing,PM-007,High
+PRJ-0268,Construction of Health Centre at Orchard Park Campus (Sector 34),Construction,Civil Works Division,2025-01-01,2026-04-06,2026-09-21,28857000,28857000,Completed,PM-005,Medium
+PRJ-0269,Construction of Canteen Building at Eastbrook Township (Sector 22),Construction,Civil Works Division,2025-03-27,2026-01-16,2026-01-22,39353000,39353000,Completed,PM-004,High
+PRJ-0270,Construction of Storage Warehouse at Lakeview Colony (Sector 16),Construction,Building Maintenance Cell,2024-09-26,2026-08-03,2026-07-11,31977000,32936000,Completed,PM-054,Medium
+PRJ-0271,Construction of Health Centre at Willow Bend Estate (Sector 36),Construction,Estate Management Branch,2026-04-13,2028-04-16,,28462000,29316000,Ongoing,PM-042,Low
+PRJ-0272,Construction of Training Centre at Hillcrest Township (Sector 7),Construction,Road & Drainage Unit,2024-03-20,2025-03-12,2025-04-12,18215000,18215000,Completed,PM-035,Medium
+PRJ-0273,Construction of Community Hall at Cedar Ridge Campus (Sector 16),Construction,Civil Works Division,2025-04-28,2027-08-25,,119269000,119269000,Ongoing,PM-005,Medium
+PRJ-0274,Renovation of Hostel Wing at Northgate Cluster (Sector 36),Renovation,Building Maintenance Cell,2026-05-23,2027-07-01,,69919000,69919000,Ongoing,PM-053,High
+PRJ-0275,Water Tank Repair at Meadow Park Colony (Sector 28),Repair,Road & Drainage Unit,2025-04-05,2025-10-27,2025-11-26,9841000,9841000,Completed,PM-037,Medium
+PRJ-0276,Road Surface Upkeep at Orchard Park Campus (Sector 13),Maintenance,Road & Drainage Unit,2026-05-02,2026-12-10,,3478000,3778000,Ongoing,PM-037,Low
+PRJ-0277,Drain Desilting and Upkeep at Pinewood Quarter (Sector 7),Maintenance,Road & Drainage Unit,2023-09-19,2024-05-28,2024-08-02,12976000,12976000,Completed,PM-035,High
+PRJ-0278,Renovation of Pump House at Sunrise Enclave (Sector 33),Renovation,Estate Management Branch,2026-01-22,2027-09-22,,16794000,16794000,Ongoing,PM-041,Medium
+PRJ-0279,Solar Power Plant Installation at Granite Hill Campus (Sector 19),Infrastructure Development,Civil Works Division,2026-07-16,2028-05-21,,404421000,481001000,Ongoing,PM-002,High
+PRJ-0280,Boundary Wall Repair at Pinewood Quarter (Sector 5),Repair,Building Maintenance Cell,2026-06-01,2027-02-22,,4914000,5061000,Ongoing,PM-049,High
+PRJ-0281,Construction of Storage Warehouse at Granite Hill Campus (Sector 35),Construction,Civil Works Division,2024-07-01,2026-02-26,2026-02-11,46431000,47824000,Completed,PM-001,High
+PRJ-0282,Street Lighting Upkeep at Harmony Heights (Sector 18),Maintenance,Electrical Works Division,2025-05-21,2026-03-02,2026-01-03,3287000,3287000,Completed,PM-009,Medium
+PRJ-0283,Generator Overhaul and Servicing at Eastbrook Township (Sector 27),Maintenance,Mechanical Services Division,2025-12-11,2026-08-04,,2550000,2550000,Ongoing,PM-020,Low
+PRJ-0284,Street Lighting Upkeep at Meadow Park Colony (Sector 23),Maintenance,Electrical Works Division,2023-09-28,2024-05-10,2024-07-28,2140000,2140000,Completed,PM-009,High
+PRJ-0285,Renovation of Hostel Wing at Silverline Township (Sector 8),Renovation,Estate Management Branch,2023-08-25,2024-05-14,2024-06-26,6730000,7890000,Completed,PM-042,Medium
+PRJ-0286,Lift Maintenance Contract at Eastbrook Township (Sector 15),Maintenance,Civil Works Division,2025-03-17,2025-09-30,2026-04-11,1703000,1911000,Completed,PM-001,Medium
+PRJ-0287,Construction of Library Building at Hillcrest Township (Sector 39),Construction,Electrical Works Division,2026-11-14,2028-05-28,,47083000,47083000,Not Started,PM-014,Medium
+PRJ-0288,HVAC Servicing and Upkeep at Hillcrest Township (Sector 6),Maintenance,Mechanical Services Division,2023-09-07,2024-03-07,2024-03-04,860000,860000,Completed,PM-022,High
+PRJ-0289,Renovation of Classroom Block at Willow Bend Estate (Sector 32),Renovation,Mechanical Services Division,2025-02-18,2026-08-26,,129108000,129108000,On Hold,PM-020,Low
+PRJ-0290,Construction of Sports Pavilion at Hillcrest Township (Sector 29),Construction,Civil Works Division,2025-02-17,2028-03-05,,103641000,103641000,Ongoing,PM-001,Medium
+PRJ-0291,Retaining Wall Repair at Meadow Park Colony (Sector 32),Repair,Estate Management Branch,2025-12-13,2026-10-14,,8826000,9091000,Ongoing,PM-041,Low
+PRJ-0292,Construction of Community Hall at Northgate Cluster (Sector 33),Construction,Electrical Works Division,2025-07-17,2026-11-22,,29279000,29279000,Ongoing,PM-014,High
+PRJ-0293,Solar Power Plant Installation at Maple Grove Estate (Sector 2),Infrastructure Development,Estate Management Branch,2025-02-06,2027-11-22,,1227136000,1263950000,Ongoing,PM-042,High
+PRJ-0294,Construction of Staff Residential Block at Maple Grove Estate (Sector 23),Construction,Water & Sanitation Wing,2026-05-31,2027-08-18,,75014000,75014000,Ongoing,PM-028,Low
+PRJ-0295,Pipeline Leak Repair at Orchard Park Campus (Sector 33),Repair,Civil Works Division,2026-05-01,2026-11-17,,5076000,5076000,Ongoing,PM-001,Medium
+PRJ-0296,Rainwater Harvesting System at Meadow Park Colony (Sector 37),Infrastructure Development,Mechanical Services Division,2025-06-11,2026-10-14,,23418000,23418000,On Hold,PM-017,Medium
+PRJ-0297,Solar Power Plant Installation at Willow Bend Estate (Sector 22),Infrastructure Development,Civil Works Division,2024-01-11,2027-03-17,,128381000,128381000,Ongoing,PM-001,Medium
+PRJ-0298,Retaining Wall Repair at Pinewood Quarter (Sector 7),Repair,Road & Drainage Unit,2025-03-20,2025-10-07,2025-11-18,2583000,2583000,Completed,PM-037,Medium
+PRJ-0299,Pipeline Leak Repair at Cedar Ridge Campus (Sector 32),Repair,Mechanical Services Division,2024-02-06,2024-07-20,2024-06-09,3564000,3802000,Completed,PM-019,High
+PRJ-0300,Staircase Structural Repair at Riverside Complex (Sector 28),Repair,Electrical Works Division,2024-07-09,2025-03-01,2025-04-24,5460000,5624000,Completed,PM-012,High
+PRJ-0301,Water Tank Repair at Maple Grove Estate (Sector 34),Repair,Electrical Works Division,2024-01-28,2024-06-29,2024-09-26,3982000,3982000,Completed,PM-010,Medium
+PRJ-0302,Construction of Multipurpose Hall at Eastbrook Township (Sector 39),Construction,Civil Works Division,2026-01-27,2027-04-16,,44205000,45531000,Ongoing,PM-008,Medium
+PRJ-0303,Renovation of Office Complex at Lakeview Colony (Sector 16),Renovation,Estate Management Branch,2026-09-03,2028-01-17,,19528000,19528000,Ongoing,PM-046,Low
+PRJ-0304,Renovation of Guest House at Hillcrest Township (Sector 24),Renovation,Civil Works Division,2025-03-02,2026-02-22,2026-07-18,23678000,23678000,Completed,PM-003,High
+PRJ-0305,Footbridge Deck Repair at Orchard Park Campus (Sector 32),Repair,Building Maintenance Cell,2024-05-04,2024-11-23,2025-01-04,7652000,7652000,Completed,PM-052,Low
+PRJ-0306,Generator Overhaul and Servicing at Hillcrest Township (Sector 29),Maintenance,Electrical Works Division,2024-06-10,2024-12-01,2025-03-15,4736000,4037000,Completed,PM-013,Low
+PRJ-0307,Annual Maintenance of Electrical Network at Harmony Heights (Sector 36),Maintenance,Electrical Works Division,2025-12-05,2026-06-08,2026-06-07,1211000,1247000,Completed,PM-014,Low
+PRJ-0308,Renovation of Recreation Centre at Hillcrest Township (Sector 23),Renovation,Civil Works Division,2024-07-05,2025-10-18,2025-11-13,11532000,11878000,Completed,PM-002,Medium
+PRJ-0309,Landscape and Garden Maintenance at Orchard Park Campus (Sector 36),Maintenance,Building Maintenance Cell,2026-05-21,2027-01-30,,4039000,4160000,Ongoing,PM-049,Medium
+PRJ-0310,Construction of Sports Pavilion at Green Valley Campus (Sector 31),Construction,Building Maintenance Cell,2023-06-27,2024-10-10,2024-12-07,13637000,13637000,Completed,PM-050,Medium
+PRJ-0311,Renovation of Classroom Block at Sunrise Enclave (Sector 11),Renovation,Water & Sanitation Wing,2025-05-10,2026-02-01,2026-05-27,9366000,9647000,Completed,PM-027,Medium
+PRJ-0312,HVAC Servicing and Upkeep at Green Valley Campus (Sector 15),Maintenance,Electrical Works Division,2023-04-25,2023-11-28,2024-05-02,4304000,4433000,Completed,PM-014,Medium
+PRJ-0313,Annual Maintenance of Electrical Network at Granite Hill Campus (Sector 17),Maintenance,Electrical Works Division,2024-10-04,2025-03-31,2025-05-03,3093000,3093000,Completed,PM-010,Medium
+PRJ-0314,Lift Maintenance Contract at Maple Grove Estate (Sector 1),Maintenance,Electrical Works Division,2026-09-02,2027-02-12,,416000,416000,Ongoing,PM-009,Low
+PRJ-0315,HVAC Servicing and Upkeep at Lakeview Colony (Sector 33),Maintenance,Mechanical Services Division,2023-12-06,2024-08-20,2024-08-13,2247000,2247000,Completed,PM-018,Medium
+PRJ-0316,Annual Maintenance of Electrical Network at Riverside Complex (Sector 7),Maintenance,Water & Sanitation Wing,2026-12-11,2027-07-01,,4392000,4392000,Not Started,PM-025,High
+PRJ-0317,Annual Maintenance of Electrical Network at Lakeview Colony (Sector 10),Maintenance,Mechanical Services Division,2026-11-08,2027-06-29,,4946000,5094000,Not Started,PM-017,Low
+PRJ-0318,Boundary Wall Repair at Cedar Ridge Campus (Sector 8),Repair,Mechanical Services Division,2025-01-07,2025-07-17,,5608000,6665000,On Hold,PM-019,High
+PRJ-0319,Landscape and Garden Maintenance at Harmony Heights (Sector 23),Maintenance,Electrical Works Division,2023-06-05,2023-12-11,2023-12-28,2348000,2348000,Completed,PM-014,Low
+PRJ-0320,Stormwater Drainage System at Eastbrook Township (Sector 1),Infrastructure Development,Electrical Works Division,2023-05-14,2025-01-17,2025-01-01,51415000,51415000,Completed,PM-009,Medium
+PRJ-0321,Stormwater Drainage System at Riverside Complex (Sector 39),Infrastructure Development,Mechanical Services Division,2025-05-25,2026-05-10,2026-10-16,55624000,55624000,Completed,PM-018,Medium
+PRJ-0322,Renovation of Office Complex at Green Valley Campus (Sector 10),Renovation,Electrical Works Division,2023-12-02,2025-02-05,2025-07-12,19122000,19122000,Completed,PM-010,Medium
+PRJ-0323,Annual Maintenance of Electrical Network at Harmony Heights (Sector 10),Maintenance,Civil Works Division,2025-07-07,2026-03-26,2026-07-14,2924000,3012000,Completed,PM-001,Medium
+PRJ-0324,Renovation of Hostel Wing at Northgate Cluster (Sector 12),Renovation,Civil Works Division,2026-02-03,2027-03-25,,36445000,36445000,Ongoing,PM-008,High
+PRJ-0325,Pavement Repair at Hillcrest Township (Sector 18),Repair,Civil Works Division,2025-06-20,2025-11-29,2025-11-10,3305000,3305000,Completed,PM-001,High
+PRJ-0326,Staircase Structural Repair at Meadow Park Colony (Sector 16),Repair,Electrical Works Division,2026-03-23,2026-09-13,2026-09-18,4539000,4539000,Completed,PM-013,Low
+PRJ-0327,Water Tank Repair at Riverside Complex (Sector 15),Repair,Electrical Works Division,2023-04-25,2023-11-20,2023-12-18,1992000,1992000,Completed,PM-009,Medium
+PRJ-0328,Renovation of Hostel Wing at Green Valley Campus (Sector 13),Renovation,Estate Management Branch,2026-12-29,2027-07-26,,15486000,15486000,Not Started,PM-042,Medium
+PRJ-0329,Renovation of Pump House at Granite Hill Campus (Sector 27),Renovation,Estate Management Branch,2025-05-23,2026-04-25,,29313000,29313000,Ongoing,PM-042,Medium
+PRJ-0330,Road Surface Upkeep at Silverline Township (Sector 23),Maintenance,Mechanical Services Division,2024-11-28,2025-04-29,2025-04-06,1030000,1030000,Completed,PM-024,Medium
+PRJ-0331,Pipeline Leak Repair at Eastbrook Township (Sector 15),Repair,Mechanical Services Division,2026-10-19,2027-04-13,,1263000,1127000,Ongoing,PM-019,High
+PRJ-0332,Street Lighting Upkeep at Riverside Complex (Sector 4),Maintenance,Road & Drainage Unit,2024-09-24,2025-04-20,2025-12-06,3686000,3911000,Completed,PM-036,Medium
+PRJ-0333,Water Tank Repair at Riverside Complex (Sector 6),Repair,Civil Works Division,2024-02-11,2024-08-18,2024-09-08,3007000,3097000,Completed,PM-001,Medium
+PRJ-0334,Staircase Structural Repair at Hillcrest Township (Sector 40),Repair,Building Maintenance Cell,2024-11-20,2025-06-10,2025-05-20,3022000,3022000,Completed,PM-051,Medium
+PRJ-0335,Construction of Library Building at Sunrise Enclave (Sector 6),Construction,Water & Sanitation Wing,2025-01-13,2027-07-08,,44061000,45383000,Ongoing,PM-025,Medium
+PRJ-0336,Renovation of Dining Hall at Green Valley Campus (Sector 20),Renovation,Electrical Works Division,2026-07-14,2027-05-25,,18924000,19492000,Ongoing,PM-009,Medium
+PRJ-0337,Construction of Sports Pavilion at Orchard Park Campus (Sector 28),Construction,Civil Works Division,2026-01-14,2027-09-16,,79266000,81644000,Ongoing,PM-002,Medium
+PRJ-0338,Roof Waterproofing Repair at Hillcrest Township (Sector 23),Repair,Civil Works Division,2025-10-06,2026-03-27,2026-05-26,5712000,5954000,Completed,PM-002,Medium
+PRJ-0339,Construction of Multipurpose Hall at Pinewood Quarter (Sector 37),Construction,Civil Works Division,2026-01-27,2027-08-11,,20199000,20199000,Ongoing,PM-001,Low
+PRJ-0340,Water Distribution Network at Silverline Township (Sector 34),Infrastructure Development,Road & Drainage Unit,2024-05-23,2025-11-09,2026-05-23,24050000,25893000,Completed,PM-036,Medium
+PRJ-0341,Construction of Canteen Building at Riverside Complex (Sector 32),Construction,Civil Works Division,2026-01-29,2027-09-11,,150729000,150729000,Ongoing,PM-007,High
+PRJ-0342,Stormwater Drainage System at Orchard Park Campus (Sector 7),Infrastructure Development,Electrical Works Division,2026-06-30,2028-01-18,,76900000,76900000,Ongoing,PM-010,High
+PRJ-0343,Compound Gate Repair at Eastbrook Township (Sector 27),Repair,Civil Works Division,2023-07-24,2023-12-25,2023-10-26,1603000,1603000,Completed,PM-001,Medium
+PRJ-0344,Renovation of Recreation Centre at Green Valley Campus (Sector 19),Renovation,Mechanical Services Division,2025-11-17,2026-08-25,2026-08-03,4851000,4851000,Completed,PM-017,Low
+PRJ-0345,Water Tank Repair at Riverside Complex (Sector 2),Repair,Water & Sanitation Wing,2023-05-13,2023-12-23,2024-02-25,5396000,6127000,Completed,PM-027,High
+PRJ-0346,Pipeline Leak Repair at Northgate Cluster (Sector 27),Repair,Road & Drainage Unit,2025-09-19,2026-04-14,2026-02-25,5842000,5842000,Completed,PM-033,Low
+PRJ-0347,Stormwater Drainage System at Northgate Cluster (Sector 16),Infrastructure Development,Civil Works Division,2026-04-13,2027-07-27,,176403000,176403000,Ongoing,PM-003,Medium
+PRJ-0348,HVAC Servicing and Upkeep at Orchard Park Campus (Sector 15),Maintenance,Road & Drainage Unit,2024-06-22,2025-03-05,2025-06-22,3911000,4028000,Completed,PM-039,Low
+PRJ-0349,Renovation of Pump House at Hillcrest Township (Sector 32),Renovation,Building Maintenance Cell,2025-05-24,2026-02-22,2026-02-23,4105000,4105000,Completed,PM-049,Medium
+PRJ-0350,Construction of Health Centre at Pinewood Quarter (Sector 34),Construction,Civil Works Division,2027-01-06,2028-01-03,,79878000,79878000,Not Started,PM-001,Medium
+PRJ-0351,Renovation of Dining Hall at Lakeview Colony (Sector 14),Renovation,Estate Management Branch,2027-02-02,2028-02-02,,41459000,50350000,Not Started,PM-046,High
+PRJ-0352,Construction of Community Hall at Crescent Hills (Sector 1),Construction,Civil Works Division,2026-06-30,2027-12-04,,13835000,13835000,Ongoing,PM-003,Medium
+PRJ-0353,Renovation of Dining Hall at Maple Grove Estate (Sector 16),Renovation,Building Maintenance Cell,2025-10-16,2026-09-23,2026-09-04,17367000,17888000,Completed,PM-051,High
+PRJ-0354,Renovation of Recreation Centre at Cedar Ridge Campus (Sector 11),Renovation,Civil Works Division,2026-11-25,2027-11-01,,15249000,15249000,Not Started,PM-008,Medium
+PRJ-0355,Drain Desilting and Upkeep at Granite Hill Campus (Sector 30),Maintenance,Mechanical Services Division,2025-06-06,2026-03-12,2026-04-29,1703000,1703000,Completed,PM-018,Medium
+PRJ-0356,Renovation of Dining Hall at Granite Hill Campus (Sector 40),Renovation,Building Maintenance Cell,2024-11-08,2025-11-11,2026-02-28,16549000,16549000,Completed,PM-049,Medium
+PRJ-0357,Retaining Wall Repair at Silverline Township (Sector 30),Repair,Water & Sanitation Wing,2025-08-29,2026-05-18,,7981000,8220000,On Hold,PM-029,Medium
+PRJ-0358,Pipeline Leak Repair at Silverline Township (Sector 32),Repair,Water & Sanitation Wing,2026-04-17,2027-06-18,,20824000,21449000,Ongoing,PM-032,Medium
+PRJ-0359,Renovation of Hostel Wing at Cedar Ridge Campus (Sector 14),Renovation,Estate Management Branch,2024-05-29,2025-04-18,2025-05-04,10638000,10638000,Completed,PM-041,Medium
+PRJ-0360,Renovation of Recreation Centre at Silverline Township (Sector 10),Renovation,Estate Management Branch,2027-02-03,2028-03-17,,38550000,38550000,Not Started,PM-047,Medium
+PRJ-0361,Stormwater Drainage System at Sunrise Enclave (Sector 29),Infrastructure Development,Electrical Works Division,2025-07-07,2027-09-07,,92559000,92559000,Ongoing,PM-009,High
+PRJ-0362,Construction of Storage Warehouse at Pinewood Quarter (Sector 21),Construction,Estate Management Branch,2024-10-16,2027-01-19,,191408000,191408000,Ongoing,PM-045,Medium
+PRJ-0363,Construction of Sports Pavilion at Harmony Heights (Sector 12),Construction,Civil Works Division,2026-04-14,2027-07-10,,21690000,21690000,On Hold,PM-001,Low
+PRJ-0364,Construction of Health Centre at Sunrise Enclave (Sector 8),Construction,Mechanical Services Division,2025-11-06,2026-12-31,2026-10-07,26995000,26995000,Completed,PM-021,Medium
+PRJ-0365,Boundary Wall Repair at Harmony Heights (Sector 33),Repair,Civil Works Division,2025-03-14,2026-01-06,2026-03-25,2086000,2086000,Completed,PM-001,Medium
+PRJ-0366,Preventive Maintenance of Water Supply at Northgate Cluster (Sector 26),Maintenance,Electrical Works Division,2025-02-07,2026-03-05,,19137000,19711000,Ongoing,PM-009,Medium
+PRJ-0367,Retaining Wall Repair at Harmony Heights (Sector 18),Repair,Building Maintenance Cell,2025-08-26,2026-03-10,2026-02-19,4028000,4028000,Completed,PM-049,Medium
+PRJ-0368,Boundary Wall Repair at Granite Hill Campus (Sector 25),Repair,Electrical Works Division,2023-06-03,2023-12-22,2023-10-25,2290000,2290000,Completed,PM-012,Medium
+PRJ-0369,Street Lighting Upkeep at Lotus Garden Colony (Sector 1),Maintenance,Electrical Works Division,2025-09-14,2026-05-10,2026-04-11,6744000,6744000,Completed,PM-010,Medium
+PRJ-0370,Water Distribution Network at Silverline Township (Sector 13),Infrastructure Development,Road & Drainage Unit,2023-12-16,2025-09-02,2025-10-02,52473000,52473000,Completed,PM-034,Medium
+PRJ-0371,Boundary Wall Repair at Granite Hill Campus (Sector 35),Repair,Water & Sanitation Wing,2026-03-01,2026-09-16,,3351000,3452000,Ongoing,PM-031,Medium
+PRJ-0372,Fire Safety System Maintenance at Maple Grove Estate (Sector 1),Maintenance,Road & Drainage Unit,2024-03-09,2024-09-25,2024-11-23,4221000,4221000,Completed,PM-036,Medium
+PRJ-0373,Preventive Maintenance of Water Supply at Green Valley Campus (Sector 12),Maintenance,Mechanical Services Division,2024-12-25,2025-08-16,2025-07-16,3860000,3860000,Completed,PM-020,Medium
+PRJ-0374,Annual Maintenance of Electrical Network at Northgate Cluster (Sector 33),Maintenance,Road & Drainage Unit,2026-05-07,2027-04-13,,4098000,4098000,Ongoing,PM-037,Medium
+PRJ-0375,Construction of Multipurpose Hall at Green Valley Campus (Sector 23),Construction,Estate Management Branch,2026-02-08,2027-09-22,,33238000,33238000,Ongoing,PM-045,High
+PRJ-0376,Construction of Sports Pavilion at Silverline Township (Sector 3),Construction,Building Maintenance Cell,2026-07-09,2027-11-14,,51046000,46882000,On Hold,PM-049,Medium
+PRJ-0377,Water Distribution Network at Pinewood Quarter (Sector 10),Infrastructure Development,Electrical Works Division,2023-09-27,2025-08-01,2025-06-30,194958000,194958000,Completed,PM-010,Medium
+PRJ-0378,Annual Maintenance of Electrical Network at Eastbrook Township (Sector 30),Maintenance,Electrical Works Division,2026-06-15,2026-11-06,2026-10-14,1045000,1045000,Completed,PM-009,Low
+PRJ-0379,Fire Safety System Maintenance at Meadow Park Colony (Sector 27),Maintenance,Building Maintenance Cell,2026-06-02,2027-01-19,,2228000,2295000,Ongoing,PM-054,High
+PRJ-0380,Pavement Repair at Pinewood Quarter (Sector 8),Repair,Water & Sanitation Wing,2025-11-09,2026-05-03,2026-05-12,3040000,3040000,Completed,PM-026,Low
+PRJ-0381,Renovation of Hostel Wing at Lotus Garden Colony (Sector 31),Renovation,Civil Works Division,2026-03-01,2027-01-28,,5570000,5570000,Ongoing,PM-001,Low
+PRJ-0382,Rainwater Harvesting System at Willow Bend Estate (Sector 1),Infrastructure Development,Civil Works Division,2024-01-18,2025-04-22,2025-07-20,170790000,170790000,Completed,PM-001,Medium
+PRJ-0383,Boundary Wall Repair at Lotus Garden Colony (Sector 27),Repair,Civil Works Division,2025-12-19,2026-07-19,2026-09-04,6446000,6639000,Completed,PM-008,Medium
+PRJ-0384,Renovation of Pump House at Riverside Complex (Sector 5),Renovation,Building Maintenance Cell,2025-12-26,2026-10-20,,14053000,14053000,On Hold,PM-049,Medium
+PRJ-0385,Road Surface Upkeep at Sunrise Enclave (Sector 11),Maintenance,Building Maintenance Cell,2025-05-07,2026-01-29,2026-07-15,4948000,5352000,Completed,PM-049,Low
+PRJ-0386,Sewage Treatment Plant at Hillcrest Township (Sector 38),Infrastructure Development,Water & Sanitation Wing,2023-07-29,2024-09-12,2024-09-12,34484000,31341000,Completed,PM-031,Medium
+PRJ-0387,Footbridge Deck Repair at Crescent Hills (Sector 21),Repair,Electrical Works Division,2024-06-09,2025-01-21,2024-11-16,4235000,4235000,Completed,PM-009,Low
+PRJ-0388,Underground Cabling Network at Sunrise Enclave (Sector 12),Infrastructure Development,Electrical Works Division,2026-10-17,2029-03-14,,51807000,51807000,Ongoing,PM-009,Low
+PRJ-0389,Construction of Storage Warehouse at Silverline Township (Sector 35),Construction,Civil Works Division,2025-08-16,2027-06-11,,48653000,48653000,Ongoing,PM-001,Low
+PRJ-0390,Boundary Wall Repair at Hillcrest Township (Sector 22),Repair,Mechanical Services Division,2026-09-12,2027-02-14,,6744000,6744000,Ongoing,PM-019,Medium
+PRJ-0391,Renovation of Pump House at Northgate Cluster (Sector 36),Renovation,Estate Management Branch,2026-04-09,2027-04-09,,8561000,8818000,Ongoing,PM-044,Medium
+PRJ-0392,Construction of Administrative Block at Meadow Park Colony (Sector 8),Construction,Road & Drainage Unit,2023-08-12,2025-06-04,2025-07-12,52665000,52665000,Completed,PM-040,Low
+PRJ-0393,Renovation of Office Complex at Cedar Ridge Campus (Sector 30),Renovation,Civil Works Division,2026-09-16,2027-06-03,,11674000,11674000,Ongoing,PM-001,Medium
+PRJ-0394,Compound Gate Repair at Granite Hill Campus (Sector 14),Repair,Electrical Works Division,2023-04-22,2023-09-01,2023-08-02,887000,887000,Completed,PM-010,Low
+PRJ-0395,Construction of Multipurpose Hall at Lotus Garden Colony (Sector 11),Construction,Civil Works Division,2025-05-15,2026-06-19,2026-08-22,6103000,6103000,Completed,PM-001,Medium
+PRJ-0396,Road Surface Upkeep at Hillcrest Township (Sector 33),Maintenance,Electrical Works Division,2024-01-14,2024-09-08,2024-11-21,3860000,3860000,Completed,PM-009,Low
+PRJ-0397,Water Tank Repair at Pinewood Quarter (Sector 29),Repair,Electrical Works Division,2024-10-24,2025-05-01,2025-04-28,7556000,8357000,Completed,PM-009,Medium
+PRJ-0398,Road Surface Upkeep at Silverline Township (Sector 8),Maintenance,Electrical Works Division,2026-05-29,2027-01-15,,4998000,4998000,Ongoing,PM-014,Medium
+PRJ-0399,Fire Safety System Maintenance at Green Valley Campus (Sector 18),Maintenance,Civil Works Division,2024-01-16,2024-10-08,2025-01-24,1325000,1325000,Completed,PM-004,Low
+PRJ-0400,Road Surface Upkeep at Crescent Hills (Sector 27),Maintenance,Civil Works Division,2023-08-18,2024-05-28,2024-09-07,4442000,4442000,Completed,PM-003,Low
+PRJ-0401,Street Lighting Upkeep at Pinewood Quarter (Sector 5),Maintenance,Road & Drainage Unit,2025-09-08,2026-02-24,2026-01-30,9376000,9376000,Completed,PM-034,Low
+PRJ-0402,Water Distribution Network at Riverside Complex (Sector 30),Infrastructure Development,Water & Sanitation Wing,2026-05-08,2027-10-16,,35496000,35496000,Ongoing,PM-025,High
+PRJ-0403,Pipeline Leak Repair at Riverside Complex (Sector 13),Repair,Road & Drainage Unit,2025-10-21,2026-04-05,2026-04-05,2165000,2165000,Completed,PM-036,Low
+PRJ-0404,Construction of Health Centre at Orchard Park Campus (Sector 6),Construction,Building Maintenance Cell,2024-03-16,2024-12-22,2025-02-05,9460000,13266000,Completed,PM-050,Low
+PRJ-0405,Water Distribution Network at Sunrise Enclave (Sector 6),Infrastructure Development,Road & Drainage Unit,2025-06-30,2027-08-07,,123070000,123070000,Ongoing,PM-036,High
+PRJ-0406,Internal Road Network Development at Riverside Complex (Sector 36),Infrastructure Development,Electrical Works Division,2023-06-24,2026-10-04,2026-05-28,361554000,434021000,Completed,PM-011,High
+PRJ-0407,Fire Safety System Maintenance at Green Valley Campus (Sector 6),Maintenance,Mechanical Services Division,2023-11-02,2024-05-02,2024-05-30,2365000,2365000,Completed,PM-017,Low
+PRJ-0408,Boundary Wall Repair at Granite Hill Campus (Sector 20),Repair,Estate Management Branch,2024-11-30,2025-04-09,2025-03-09,512000,512000,Completed,PM-042,Medium
+PRJ-0409,Construction of Multipurpose Hall at Orchard Park Campus (Sector 23),Construction,Civil Works Division,2026-06-16,2027-04-24,,20667000,20667000,Ongoing,PM-001,Medium
+PRJ-0410,Solar Power Plant Installation at Pinewood Quarter (Sector 2),Infrastructure Development,Electrical Works Division,2024-08-29,2026-01-26,2026-05-01,86352000,86352000,Completed,PM-013,High
+PRJ-0411,Pavement Repair at Sunrise Enclave (Sector 25),Repair,Building Maintenance Cell,2025-01-27,2025-09-18,2025-08-11,2107000,2107000,Completed,PM-050,High
+PRJ-0412,Drainage Line Repair at Harmony Heights (Sector 24),Repair,Civil Works Division,2026-07-28,2027-01-16,,1974000,1974000,On Hold,PM-006,High
+PRJ-0413,Construction of Canteen Building at Green Valley Campus (Sector 26),Construction,Estate Management Branch,2027-01-24,2028-09-17,,17455000,17455000,Not Started,PM-046,Medium
+PRJ-0414,Rainwater Harvesting System at Silverline Township (Sector 1),Infrastructure Development,Mechanical Services Division,2024-06-20,2025-08-10,2026-07-22,64872000,64872000,Completed,PM-018,High
+PRJ-0415,Construction of Training Centre at Maple Grove Estate (Sector 12),Construction,Road & Drainage Unit,2023-06-08,2026-05-13,2026-10-05,65011000,65011000,Completed,PM-038,Medium
+PRJ-0416,HVAC Servicing and Upkeep at Willow Bend Estate (Sector 19),Maintenance,Building Maintenance Cell,2023-09-28,2024-04-13,2024-03-20,929000,929000,Completed,PM-051,High
+PRJ-0417,Construction of Staff Residential Block at Sunrise Enclave (Sector 24),Construction,Civil Works Division,2023-12-02,2025-01-30,2025-02-16,32889000,32889000,Completed,PM-001,High
+PRJ-0418,Pipeline Leak Repair at Cedar Ridge Campus (Sector 4),Repair,Water & Sanitation Wing,2026-10-17,2027-05-23,,4330000,4330000,Ongoing,PM-025,Medium
+PRJ-0419,Generator Overhaul and Servicing at Cedar Ridge Campus (Sector 37),Maintenance,Mechanical Services Division,2023-11-17,2024-03-20,2024-03-28,687000,708000,Completed,PM-021,High
+PRJ-0420,Underground Cabling Network at Maple Grove Estate (Sector 39),Infrastructure Development,Water & Sanitation Wing,2025-09-06,2028-07-14,,88501000,88501000,Ongoing,PM-028,Low
+PRJ-0421,Roof Waterproofing Repair at Green Valley Campus (Sector 34),Repair,Water & Sanitation Wing,2023-05-10,2023-11-08,2024-02-28,6644000,8175000,Completed,PM-026,Low
+PRJ-0422,Construction of Storage Warehouse at Pinewood Quarter (Sector 37),Construction,Civil Works Division,2024-05-29,2025-09-16,,54029000,54029000,Ongoing,PM-002,Medium
+PRJ-0423,Construction of Health Centre at Harmony Heights (Sector 29),Construction,Civil Works Division,2024-07-29,2026-04-18,,110070000,124102000,Ongoing,PM-004,High
+PRJ-0424,Construction of Staff Residential Block at Harmony Heights (Sector 4),Construction,Road & Drainage Unit,2023-06-08,2024-07-11,2024-11-28,40933000,42161000,Completed,PM-038,Medium
+PRJ-0425,Renovation of Office Complex at Meadow Park Colony (Sector 24),Renovation,Estate Management Branch,2023-10-17,2025-05-25,2025-03-04,33414000,33414000,Completed,PM-045,Medium
+PRJ-0426,Retaining Wall Repair at Hillcrest Township (Sector 20),Repair,Road & Drainage Unit,2023-11-08,2024-05-23,2024-05-12,3574000,3681000,Completed,PM-034,Medium
+PRJ-0427,Drain Desilting and Upkeep at Northgate Cluster (Sector 22),Maintenance,Building Maintenance Cell,2024-10-26,2025-04-19,2025-06-11,1391000,1433000,Completed,PM-053,Medium
+PRJ-0428,Roof Waterproofing Repair at Orchard Park Campus (Sector 5),Repair,Water & Sanitation Wing,2024-12-12,2025-06-28,2025-07-10,3415000,3415000,Completed,PM-028,High
+PRJ-0429,Construction of Community Hall at Green Valley Campus (Sector 39),Construction,Water & Sanitation Wing,2024-03-30,2025-07-21,2026-01-30,28699000,28699000,Completed,PM-027,Low
+PRJ-0430,Pipeline Leak Repair at Cedar Ridge Campus (Sector 30),Repair,Building Maintenance Cell,2026-09-15,2027-03-08,,1892000,1892000,Ongoing,PM-053,Medium
+PRJ-0431,Internal Road Network Development at Hillcrest Township (Sector 11),Infrastructure Development,Estate Management Branch,2025-12-02,2029-03-07,,148209000,148209000,Ongoing,PM-041,High
+PRJ-0432,Pipeline Leak Repair at Eastbrook Township (Sector 36),Repair,Road & Drainage Unit,2024-08-15,2025-01-25,2025-08-02,6884000,9337000,Completed,PM-037,Low
+PRJ-0433,Compound Gate Repair at Willow Bend Estate (Sector 4),Repair,Civil Works Division,2025-07-04,2026-01-03,2025-12-13,829000,829000,Completed,PM-001,Medium
+PRJ-0434,Compound Gate Repair at Orchard Park Campus (Sector 24),Repair,Mechanical Services Division,2025-05-27,2026-03-05,2026-02-26,11464000,11464000,Completed,PM-018,High
+PRJ-0435,Construction of Sports Pavilion at Cedar Ridge Campus (Sector 9),Construction,Civil Works Division,2025-08-02,2026-12-25,,22868000,22868000,Ongoing,PM-007,High
+PRJ-0436,Drain Desilting and Upkeep at Harmony Heights (Sector 13),Maintenance,Mechanical Services Division,2026-01-29,2027-05-02,,5024000,5175000,On Hold,PM-020,High
+PRJ-0437,Construction of Training Centre at Orchard Park Campus (Sector 23),Construction,Civil Works Division,2026-09-10,2028-10-05,,98073000,98073000,Ongoing,PM-001,High
+PRJ-0438,Renovation of Pump House at Sunrise Enclave (Sector 29),Renovation,Civil Works Division,2026-02-12,2027-09-03,,32318000,33288000,Ongoing,PM-004,High
+PRJ-0439,Staircase Structural Repair at Northgate Cluster (Sector 38),Repair,Building Maintenance Cell,2023-06-26,2023-11-07,2023-10-12,754000,754000,Completed,PM-049,Medium
+PRJ-0440,Renovation of Hostel Wing at Meadow Park Colony (Sector 19),Renovation,Civil Works Division,2024-10-06,2025-08-21,2025-11-07,9959000,10258000,Completed,PM-001,High
+PRJ-0441,Pipeline Leak Repair at Cedar Ridge Campus (Sector 1),Repair,Road & Drainage Unit,2026-06-28,2026-12-10,,3789000,3789000,Ongoing,PM-034,Low
+PRJ-0442,Construction of Storage Warehouse at Sunrise Enclave (Sector 3),Construction,Estate Management Branch,2027-01-20,2028-09-04,,20359000,20359000,Not Started,PM-046,Medium
+PRJ-0443,Drainage Line Repair at Silverline Township (Sector 30),Repair,Road & Drainage Unit,2024-03-20,2024-11-02,2025-02-09,4667000,4667000,Completed,PM-037,Medium
+PRJ-0444,Annual Maintenance of Electrical Network at Sunrise Enclave (Sector 29),Maintenance,Estate Management Branch,2023-08-05,2024-03-14,2024-02-17,2472000,2472000,Completed,PM-042,Low
+PRJ-0445,Generator Overhaul and Servicing at Maple Grove Estate (Sector 7),Maintenance,Electrical Works Division,2024-05-22,2025-01-27,,5065000,5065000,Ongoing,PM-009,Low
+PRJ-0446,Drainage Line Repair at Northgate Cluster (Sector 39),Repair,Road & Drainage Unit,2023-07-21,2024-02-12,2024-06-17,2847000,2932000,Completed,PM-036,Medium
+PRJ-0447,Water Distribution Network at Meadow Park Colony (Sector 3),Infrastructure Development,Electrical Works Division,2025-08-10,2028-04-13,,71979000,71979000,Ongoing,PM-011,Medium
+PRJ-0448,Renovation of Pump House at Orchard Park Campus (Sector 31),Renovation,Estate Management Branch,2025-01-05,2026-02-01,2026-02-23,22363000,22363000,Completed,PM-044,Medium
+PRJ-0449,Construction of Sports Pavilion at Crescent Hills (Sector 39),Construction,Civil Works Division,2026-04-21,2028-01-19,,65476000,65476000,On Hold,PM-004,Medium
+PRJ-0450,Renovation of Pump House at Harmony Heights (Sector 6),Renovation,Building Maintenance Cell,2023-05-17,2024-04-16,2024-03-21,9235000,9235000,Completed,PM-049,Medium
+PRJ-0451,Construction of Training Centre at Crescent Hills (Sector 4),Construction,Electrical Works Division,2025-11-08,2027-01-26,,49109000,49109000,Ongoing,PM-009,Medium
+PRJ-0452,Street Lighting Grid Upgrade at Northgate Cluster (Sector 36),Infrastructure Development,Electrical Works Division,2024-10-13,2026-09-28,,125371000,129132000,Ongoing,PM-011,Low
+PRJ-0453,Pipeline Leak Repair at Granite Hill Campus (Sector 8),Repair,Estate Management Branch,2026-05-12,2026-11-02,,17324000,17324000,Ongoing,PM-048,Medium
+PRJ-0454,Construction of Training Centre at Northgate Cluster (Sector 40),Construction,Mechanical Services Division,2026-10-21,2028-05-25,,29515000,29515000,Ongoing,PM-017,Medium
+PRJ-0455,Construction of Training Centre at Lotus Garden Colony (Sector 6),Construction,Civil Works Division,2026-04-17,2027-11-17,,131933000,135891000,Ongoing,PM-003,Low
+PRJ-0456,Fire Safety System Maintenance at Northgate Cluster (Sector 22),Maintenance,Building Maintenance Cell,2026-08-21,2027-01-19,,1383000,1383000,Ongoing,PM-053,Low
+PRJ-0457,Sewage Treatment Plant at Riverside Complex (Sector 22),Infrastructure Development,Road & Drainage Unit,2025-02-20,2026-02-01,2026-04-26,48708000,50169000,Completed,PM-038,Medium
+PRJ-0458,Generator Overhaul and Servicing at Harmony Heights (Sector 22),Maintenance,Building Maintenance Cell,2026-05-20,2026-12-13,,3629000,3629000,Ongoing,PM-053,High
+PRJ-0459,Roof Waterproofing Repair at Harmony Heights (Sector 16),Repair,Civil Works Division,2027-01-24,2027-10-14,,4639000,4639000,Not Started,PM-003,High
+PRJ-0460,Renovation of Classroom Block at Orchard Park Campus (Sector 38),Renovation,Civil Works Division,2023-09-22,2024-08-02,2024-07-30,12223000,12223000,Completed,PM-003,Medium
+PRJ-0461,Renovation of Office Complex at Eastbrook Township (Sector 36),Renovation,Civil Works Division,2025-10-19,2027-01-02,,29615000,29615000,Ongoing,PM-001,High
+PRJ-0462,Construction of Multipurpose Hall at Meadow Park Colony (Sector 8),Construction,Road & Drainage Unit,2025-10-28,2026-12-07,,34763000,34763000,Ongoing,PM-039,Low
+PRJ-0463,Internal Road Network Development at Silverline Township (Sector 4),Infrastructure Development,Electrical Works Division,2024-08-16,2027-11-26,,68131000,68131000,Ongoing,PM-016,Low
+PRJ-0464,Drain Desilting and Upkeep at Harmony Heights (Sector 20),Maintenance,Building Maintenance Cell,2023-10-28,2024-05-30,2024-07-17,2808000,2808000,Completed,PM-050,Medium
+PRJ-0465,Renovation of Hostel Wing at Lakeview Colony (Sector 16),Renovation,Building Maintenance Cell,2024-06-02,2025-06-04,2025-06-22,7406000,7406000,Completed,PM-051,High
+PRJ-0466,Compound Gate Repair at Green Valley Campus (Sector 3),Repair,Civil Works Division,2026-01-10,2026-11-10,,3520000,3520000,Ongoing,PM-006,Medium
+PRJ-0467,Pavement Repair at Orchard Park Campus (Sector 18),Repair,Road & Drainage Unit,2027-01-25,2027-06-20,,529000,529000,Not Started,PM-033,Low
+PRJ-0468,Sewage Treatment Plant at Pinewood Quarter (Sector 33),Infrastructure Development,Estate Management Branch,2024-07-23,2026-06-26,2026-06-26,75692000,75692000,Completed,PM-048,High
+PRJ-0469,Construction of Administrative Block at Silverline Township (Sector 32),Construction,Civil Works Division,2024-05-16,2025-01-22,2024-12-12,12404000,12404000,Completed,PM-005,Medium
+PRJ-0470,Renovation of Guest House at Riverside Complex (Sector 40),Renovation,Mechanical Services Division,2025-06-08,2026-02-24,2026-01-24,7510000,7510000,Completed,PM-022,Medium
+PRJ-0471,Road Surface Upkeep at Green Valley Campus (Sector 11),Maintenance,Mechanical Services Division,2023-12-24,2024-09-13,2024-11-22,4100000,4223000,Completed,PM-017,Medium
+PRJ-0472,Renovation of Classroom Block at Maple Grove Estate (Sector 34),Renovation,Civil Works Division,2027-01-30,2028-02-15,,11541000,11541000,Not Started,PM-001,High
+PRJ-0473,Construction of Multipurpose Hall at Hillcrest Township (Sector 14),Construction,Civil Works Division,2025-01-26,2026-02-12,2026-02-22,16692000,16692000,Completed,PM-003,Low
+PRJ-0474,Construction of Sports Pavilion at Willow Bend Estate (Sector 24),Construction,Civil Works Division,2024-06-15,2026-04-08,2026-02-20,32339000,32339000,Completed,PM-001,Medium
+PRJ-0475,Fire Safety System Maintenance at Meadow Park Colony (Sector 1),Maintenance,Building Maintenance Cell,2025-09-13,2026-06-15,,4018000,4018000,Ongoing,PM-049,Low
+PRJ-0476,Fire Safety System Maintenance at Pinewood Quarter (Sector 34),Maintenance,Electrical Works Division,2026-09-19,2027-08-10,,3151000,3151000,Ongoing,PM-012,Medium
+PRJ-0477,Fire Safety System Maintenance at Green Valley Campus (Sector 13),Maintenance,Road & Drainage Unit,2024-06-03,2025-04-19,2025-08-08,6260000,6260000,Completed,PM-033,High
+PRJ-0478,Renovation of Dining Hall at Silverline Township (Sector 14),Renovation,Estate Management Branch,2025-10-01,2027-03-11,,16082000,16564000,Ongoing,PM-046,High
+PRJ-0479,Renovation of Recreation Centre at Orchard Park Campus (Sector 31),Renovation,Estate Management Branch,2023-07-28,2024-09-13,2024-07-19,17708000,17708000,Completed,PM-043,Medium
+PRJ-0480,Fire Safety System Maintenance at Cedar Ridge Campus (Sector 37),Maintenance,Estate Management Branch,2024-04-04,2025-03-10,2025-06-28,7954000,7954000,Completed,PM-048,Low
+PRJ-0481,Fire Safety System Maintenance at Eastbrook Township (Sector 24),Maintenance,Mechanical Services Division,2023-06-26,2024-01-14,2024-03-07,2271000,2271000,Completed,PM-021,Medium
+PRJ-0482,Preventive Maintenance of Water Supply at Pinewood Quarter (Sector 22),Maintenance,Civil Works Division,2024-03-24,2024-08-17,2024-08-01,1358000,1358000,Completed,PM-003,Medium
+PRJ-0483,Renovation of Classroom Block at Orchard Park Campus (Sector 6),Renovation,Civil Works Division,2025-11-24,2026-12-24,,15506000,15506000,Ongoing,PM-007,Low
+PRJ-0484,Annual Maintenance of Electrical Network at Granite Hill Campus (Sector 18),Maintenance,Road & Drainage Unit,2023-07-24,2024-04-18,2024-03-17,1969000,1969000,Completed,PM-033,Medium
+PRJ-0485,Construction of Canteen Building at Sunrise Enclave (Sector 13),Construction,Water & Sanitation Wing,2023-12-04,2025-01-04,2024-12-03,24683000,24683000,Completed,PM-025,Medium
+PRJ-0486,Preventive Maintenance of Water Supply at Silverline Township (Sector 32),Maintenance,Building Maintenance Cell,2023-09-18,2024-03-25,2024-05-15,2674000,2754000,Completed,PM-055,High
+PRJ-0487,Renovation of Guest House at Orchard Park Campus (Sector 14),Renovation,Civil Works Division,2025-05-13,2026-01-11,2026-03-12,11821000,11821000,Completed,PM-003,Low
+PRJ-0488,Road Surface Upkeep at Green Valley Campus (Sector 2),Maintenance,Electrical Works Division,2026-07-17,2027-01-26,,4017000,5071000,Ongoing,PM-011,Medium
+PRJ-0489,Renovation of Pump House at Cedar Ridge Campus (Sector 22),Renovation,Civil Works Division,2023-12-02,2024-08-05,2024-08-28,25004000,25004000,Completed,PM-004,Medium
+PRJ-0490,Renovation of Classroom Block at Maple Grove Estate (Sector 9),Renovation,Civil Works Division,2025-02-01,2026-01-10,2026-03-02,14173000,14173000,Completed,PM-001,Medium
+PRJ-0491,Water Tank Repair at Green Valley Campus (Sector 10),Repair,Civil Works Division,2025-01-25,2025-09-12,2025-09-14,3314000,3314000,Completed,PM-001,Low
+PRJ-0492,Pipeline Leak Repair at Meadow Park Colony (Sector 15),Repair,Road & Drainage Unit,2024-08-28,2025-03-07,2025-04-26,4736000,4736000,Completed,PM-034,Low
+PRJ-0493,Pipeline Leak Repair at Granite Hill Campus (Sector 39),Repair,Electrical Works Division,2025-07-12,2025-12-11,2026-03-13,11522000,11895000,Completed,PM-014,Medium
+PRJ-0494,Generator Overhaul and Servicing at Hillcrest Township (Sector 36),Maintenance,Electrical Works Division,2024-01-30,2024-07-03,2024-06-20,841000,841000,Completed,PM-011,Low
+PRJ-0495,Pavement Repair at Granite Hill Campus (Sector 15),Repair,Water & Sanitation Wing,2026-07-12,2026-12-29,,3084000,3084000,Ongoing,PM-026,High
+PRJ-0496,Renovation of Dining Hall at Orchard Park Campus (Sector 3),Renovation,Building Maintenance Cell,2023-07-18,2025-07-06,2025-08-02,15279000,15279000,Completed,PM-051,Low
+PRJ-0497,Preventive Maintenance of Water Supply at Green Valley Campus (Sector 39),Maintenance,Water & Sanitation Wing,2026-09-12,2027-02-27,,2411000,2411000,Ongoing,PM-026,Low
+PRJ-0498,Renovation of Hostel Wing at Orchard Park Campus (Sector 1),Renovation,Civil Works Division,2023-04-08,2023-12-28,2023-12-10,15925000,15925000,Completed,PM-005,Medium
+PRJ-0499,Generator Overhaul and Servicing at Meadow Park Colony (Sector 20),Maintenance,Road & Drainage Unit,2025-01-01,2025-11-30,2026-05-15,4553000,4690000,Completed,PM-033,High
+PRJ-0500,Renovation of Recreation Centre at Riverside Complex (Sector 37),Renovation,Estate Management Branch,2026-11-26,2028-01-21,,24480000,24480000,Not Started,PM-043,High
